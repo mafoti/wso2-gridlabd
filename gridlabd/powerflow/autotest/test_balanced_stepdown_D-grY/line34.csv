@@ -1,0 +1,10 @@
+# file...... line34.csv
+# date...... Thu Jul 07 15:45:03 2016
+# user...... gridlabd
+# host...... (null)
+# target.... overhead_line 20
+# trigger... (none)
+# interval.. 1
+# limit..... 1000
+# timestamp,current_out_A,current_out_B,current_out_C,current_in_A,current_in_B,current_in_C,phases,status,from,to,power_in,power_out,power_losses,flow_direction,length,configuration
+2000-01-01 00:00:00 EST,+441.825-943.586j,-971.148+70.5006j,+577.43+825.017j,+441.825-943.586j,-971.148+70.5006j,+577.43+825.017j,ABCN,CLOSED,n,l,+5.84177e+006+3.52353e+006j,+5.4e+006+2.61534e+006j,+441770+908190j,CF|BF|AF,+2500,l

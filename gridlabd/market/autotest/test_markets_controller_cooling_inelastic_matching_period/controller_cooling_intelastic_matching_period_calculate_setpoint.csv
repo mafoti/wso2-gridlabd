@@ -1,0 +1,17 @@
+# file...... controller_cooling_intelastic_matching_period_calculate_setpoint.csv
+# date...... Thu Jul 07 15:44:56 2016
+# user...... gridlabd
+# host...... (null)
+# target.... auction 1
+# trigger... (none)
+# interval.. 900
+# limit..... 4320
+# timestamp,cool_control:base_setpoint,current_market.clearing_price,current_price_mean_30min,cool_control:range_high,cool_control:range_low,cool_control:ramp_high,cool_control:ramp_low,current_price_stdev_30min,house1:cooling_setpoint
+2001-06-25 14:00:00 PDT,+70,+100,+100,+5,+0,+2,+2,+0,+70
+2001-06-25 14:15:00 PDT,+70,+10,+55,+5,+0,+2,+2,+0,+70
+2001-06-25 14:30:00 PDT,+70,+25,+17.5,+5,+0,+2,+2,+7.5,+72.5
+2001-06-25 14:45:00 PDT,+70,+112,+68.5,+5,+0,+2,+2,+43.5,+72.5
+2001-06-25 15:00:00 PDT,+70,+49.5,+80.75,+5,+0,+2,+2,+31.25,+70
+2001-06-25 15:15:00 PDT,+70,+49.8,+49.65,+5,+0,+2,+2,+0.15,+72.5
+2001-06-25 15:30:00 PDT,+70,+50.2,+50,+5,+0,+2,+2,+0.2,+72.5
+2001-06-25 15:45:00 PDT,+70,+77,+63.6,+5,+0,+2,+2,+13.4,+72.5

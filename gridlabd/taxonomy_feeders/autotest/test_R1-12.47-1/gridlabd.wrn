@@ -1,0 +1,1133 @@
+WARNING  [INIT] : C:\gridlabd\install64\share\gridlabd\tzinfo.txt(169): timezone spec 'EST8EDT' not found in 'tzinfo.txt', will include no DST information
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_1 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_2 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_3 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_4 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_5 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_6 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_7 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_8 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_9 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_10 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_11 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_12 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_13 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_14 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_15 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_16 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_17 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_18 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_19 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_20 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_21 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_22 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_23 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_24 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_25 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_26 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_27 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_28 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_29 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_30 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_31 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_32 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_33 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_34 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_35 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_36 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_37 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_38 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_39 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_40 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_41 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_42 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_43 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_44 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_45 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_46 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_47 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_48 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_49 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_50 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_51 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_52 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_53 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_54 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_55 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_56 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_57 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_58 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_59 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_60 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_61 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_62 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_63 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_64 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_65 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_66 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_67 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_68 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_69 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_70 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_71 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_72 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_73 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_74 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_75 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_76 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_77 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_78 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_79 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_80 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_81 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_82 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_83 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_84 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_85 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_86 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_87 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_88 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_89 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_90 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_91 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_92 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_93 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_94 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_95 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_96 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_97 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_98 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_99 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_100 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_101 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_102 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_103 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_104 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_105 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_106 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_107 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_108 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_109 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_110 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_111 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_112 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_113 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_114 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_115 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_116 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_117 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_118 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_119 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_120 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_121 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R1-12-47-1_fuse_122 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_270 is at 104.46% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 9 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 100.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_383 is at 129.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_576 is at 101.69% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 160.00% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 30 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_330 is at 101.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_267 is at 169.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 9 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_448 is at 101.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_495 is at 115.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 100.48% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 26 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 101.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 102.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 171.32% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 102.13% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 119.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.01% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 171.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 102.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 111.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 101.49% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 119.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 100.71% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 147.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.59% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.20% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.06% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 120.95% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.24% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.07% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.48% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 102.96% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 112.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.70% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 120.92% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.30% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.74% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.75% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.34% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.45% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.13% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.13% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.56% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.15% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.52% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.13% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.87% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.08% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.14% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.52% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.64% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 103.46% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 173.81% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 103.14% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 101.64% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 103.16% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 112.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.20% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.16% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 102.89% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 101.35% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 148.88% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.46% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.70% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.58% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.27% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.87% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.40% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.39% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.31% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.02% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.22% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.58% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.62% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.61% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.06% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.50% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.27% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.83% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.85% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.31% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.79% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.37% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.32% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.03% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.54% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.79% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:04:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:04:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:05:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:05:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:06:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:06:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:07:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:07:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:08:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:08:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:09:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:09:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:10:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:10:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:11:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:11:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:12:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:12:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:13:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:13:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:14:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:14:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 22 times
+WARNING  [2000-01-01 00:15:00 EST] : transformer:R1-12-47-1_xfmr_107 is at 101.78% of its rated power value
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_491 is at 102.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_183 is at 101.59% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_301 is at 174.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_31 is at 101.48% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_395 is at 121.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_569 is at 100.82% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_270 is at 173.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_131 is at 101.29% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_501 is at 111.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:15:00 EST] : transformer:R1-12-47-1_xfmr_601 is at 103.38% of its rated power value
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_208 is at 113.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 8 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_292 is at 103.04% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_401 is at 121.23% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 3 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_425 is at 100.53% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R1-12-47-1_tl_251 is at 146.45% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 22 times

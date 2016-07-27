@@ -1,0 +1,17 @@
+# file...... test_markets_controller_cooling_inelastic_matching_period_output.csv
+# date...... Thu Jul 07 15:44:56 2016
+# user...... gridlabd
+# host...... (null)
+# target.... auction 1
+# trigger... (none)
+# interval.. 900
+# limit..... 168
+# timestamp,cool_control:bid_price,current_market.clearing_price,current_market.clearing_quantity,current_market.clearing_type,current_market.marginal_quantity,current_price_mean_30min,current_price_stdev_30min
+2001-06-25 14:00:00 PDT,+100,+100,+0,NULL,+0,+100,+0
+2001-06-25 14:15:00 PDT,+55,+10,+0.0043699,EXACT,+0,+55,+0
+2001-06-25 14:30:00 PDT,+19.2211,+25,+0.0043699,EXACT,+0,+17.5,+7.5
+2001-06-25 14:45:00 PDT,+115.501,+112,+0,NULL,+0,+68.5,+43.5
+2001-06-25 15:00:00 PDT,+99.7825,+49.5,+0.0043699,EXACT,+0,+80.75,+31.25
+2001-06-25 15:15:00 PDT,+0,+49.8,+0.0043699,EXACT,+0,+49.65,+0.15
+2001-06-25 15:30:00 PDT,+50.2355,+50.2,+0,NULL,+0,+50,+0.2
+2001-06-25 15:45:00 PDT,+76.5139,+77,+0,NULL,+0,+63.6,+13.4

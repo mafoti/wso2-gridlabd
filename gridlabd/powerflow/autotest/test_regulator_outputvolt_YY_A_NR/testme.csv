@@ -1,0 +1,9 @@
+# file...... testme.csv
+# date...... Thu Jul 07 15:45:25 2016
+# user...... gridlabd
+# host...... (null)
+# target.... node 9
+# trigger... (none)
+# interval.. 0
+# limit..... 200
+# timestamp,voltage_A.real,voltage_A.imag

@@ -1,0 +1,2 @@
+WARNING  [INIT] : diesel_dg:Gen_Bus_1 did not have a valid Rated_VA set, assuming 10 MVA
+WARNING  [INIT] : diesel_dg:Gen_Bus_2 did not have a valid Rated_VA set, assuming 10 MVA

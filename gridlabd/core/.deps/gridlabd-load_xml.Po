@@ -1,0 +1,66 @@
+core/gridlabd-load_xml.o: core/load_xml.cpp core/platform.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h \
+ core/config.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\unistd.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\io.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\io_s.h
+
+core/platform.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h:
+
+core/config.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\unistd.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\io.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\io_s.h:

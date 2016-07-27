@@ -1,0 +1,5 @@
+ERROR    [01-01-2001 00:00:05.100000024 PST] : delta_update(): update failed for object 'double_assert:4'
+ERROR    [01-01-2001 00:00:05.100000024 PST] : delta_update() failed, deltamode operation cannot continue
+ERROR    [01-01-2001 00:00:05.100000024 PST] : exec halted: Deltamode simulation failure
+FATAL    [01-01-2001 00:00:05.100000024 PST] : shutdown after simulation stopped prematurely
+FATAL    [01-01-2001 00:00:05.100000024 PST] : environment startup failed: No such file or directory

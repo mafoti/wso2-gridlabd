@@ -1,0 +1,1 @@
+WARNING  [INIT] : Automatic controls can oscillate to the iteration limit with no time delays.  To prevent this, ensure your switching limits are reasonable.

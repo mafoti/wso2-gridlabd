@@ -1,0 +1,2 @@
+gcc -m64 -DWIN32 -c "test_schedule_xform_external.c" -o "test_schedule_xform_external.o" 
+gcc -m64  -shared "test_schedule_xform_external.o" -o "test_schedule_xform_external.dll"

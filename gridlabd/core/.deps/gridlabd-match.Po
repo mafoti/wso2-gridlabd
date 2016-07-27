@@ -1,0 +1,3 @@
+core/gridlabd-match.o: core/match.c core/match.h
+
+core/match.h:

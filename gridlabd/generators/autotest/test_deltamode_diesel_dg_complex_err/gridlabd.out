@@ -1,0 +1,1 @@
+ERROR    [01-01-2001 00:00:00.000000 PST] : Assert failed on BUS_1 - real part of voltage_A (8649.64) not within 0.020000 of given value 8654.57

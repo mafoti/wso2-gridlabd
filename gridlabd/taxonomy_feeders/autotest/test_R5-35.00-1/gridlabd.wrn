@@ -1,0 +1,1248 @@
+WARNING  [INIT] : C:\gridlabd\install64\share\gridlabd\tzinfo.txt(169): timezone spec 'EST8EDT' not found in 'tzinfo.txt', will include no DST information
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_1 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_2 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_3 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_4 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_5 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_6 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_7 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_8 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_9 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_10 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_11 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_12 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_13 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_14 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_15 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_16 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_17 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_18 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_19 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_20 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_21 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_22 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_23 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_24 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_25 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_26 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_27 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_28 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_29 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_30 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_31 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_32 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_33 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_34 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_35 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R5-35-00-1_fuse_36 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 34 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_79 is at 103.46% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 25 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 269.55% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 177 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.60% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 329.25% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.89% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.79% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.71% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.91% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.55% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 283.83% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.47% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 330.72% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.88% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.96% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.52% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.38% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.84% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.48% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 281.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.48% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 328.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.81% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.99% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.18% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.78% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.90% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.77% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.42% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 279.89% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.48% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 326.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.74% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 278.03% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.84% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.94% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.71% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.71% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:01:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:01:30 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.35% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 277.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.49% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 323.70% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.68% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 276.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.51% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.98% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.38% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.64% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.29% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 275.97% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.49% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 321.37% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.12% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.19% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.06% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.57% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:30 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:02:30 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:02:30 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 101.23% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 38 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 274.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 137.50% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 319.05% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 175 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.54% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.17% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.87% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.38% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.65% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.34% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.38% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.74% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.64% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:04:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:04:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:05:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:05:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:06:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:06:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:07:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:07:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:08:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:08:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:09:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:09:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:10:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:10:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:11:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:11:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:12:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:12:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:13:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:13:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:14:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:14:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:15:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:15:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:16:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:16:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:17:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:17:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:18:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:18:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:19:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:19:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:20:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:20:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:21:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:21:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:22:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:22:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:23:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:23:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:24:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:24:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:25:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:25:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:26:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:26:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:27:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:27:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:28:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:28:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:29:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:29:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:30:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:30:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:31:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:31:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:32:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:32:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:33:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:33:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:34:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:34:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:35:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:35:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:36:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:36:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:37:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:37:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:38:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:38:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:39:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:39:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:40:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:40:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:41:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:41:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:42:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:42:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:43:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:43:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:44:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:44:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:45:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:45:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:46:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:46:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:47:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:47:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:48:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:48:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:49:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:49:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:50:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:50:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:51:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:51:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:52:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:52:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:53:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:53:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:54:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:54:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:55:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:55:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:56:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:56:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:57:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:57:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:58:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:58:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 00:59:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 00:59:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 50 times
+WARNING  [2000-01-01 01:00:00 EST] : transformer:R5-35-00-1_xfmr_113 is at 100.51% of its rated power value
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 37 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_116 is at 272.07% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 01:00:00 EST] : transformer:R5-35-00-1_xfmr_219 is at 136.61% of its rated power value
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_77 is at 316.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 21 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_160 is at 104.37% of its continuous rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_122 is at 102.63% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 100 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_162 is at 104.32% of its continuous rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-35-00-1_tl_163 is at 124.36% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 50 times

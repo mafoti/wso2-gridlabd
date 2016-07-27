@@ -1,0 +1,6 @@
+ERROR    [INIT] : schedule boolean_schedule fails 'boolean' validation in block * at schedule index 1
+ERROR    [INIT] : last error message was repeated 9 times
+ERROR    [INIT] : deferred creation of schedule 'boolean_schedule' failed
+test_core_schedules_boolean_err.glm(13): schedule 'boolean_schedule' is not valid
+test_core_schedules_boolean_err.glm(13): load failed at or near 'schedule boo...'
+FATAL    [INIT] : shutdown after command line rejected

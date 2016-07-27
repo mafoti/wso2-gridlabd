@@ -1,0 +1,13 @@
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_1 is at 164.54% of its continuous rating on phase A!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_1 is at 164.19% of its continuous rating on phase B!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_1 is at 164.20% of its continuous rating on phase C!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_2 is at 164.76% of its continuous rating on phase A!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_2 is at 164.41% of its continuous rating on phase B!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_2 is at 164.42% of its continuous rating on phase C!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_3 is at 164.76% of its continuous rating on phase A!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_3 is at 164.41% of its continuous rating on phase B!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_3 is at 164.42% of its continuous rating on phase C!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_4 is at 115.12% of its continuous rating on phase A!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_4 is at 114.86% of its continuous rating on phase B!
+WARNING  [2011-01-01 00:00:00 UTC] : Line:LINE_4 is at 114.87% of its continuous rating on phase C!

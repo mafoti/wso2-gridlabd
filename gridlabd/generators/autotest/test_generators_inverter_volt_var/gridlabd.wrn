@@ -1,0 +1,3 @@
+WARNING  [INIT] : Node:inv_meter is parented to a swing node and will get folded into it.
+WARNING  [INIT] : volt var control lockout is 0. Warning this may cause oscillating behavior.
+WARNING  [INIT] : Node:load is parented to a swing node and will get folded into it.

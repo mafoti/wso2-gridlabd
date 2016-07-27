@@ -1,0 +1,47 @@
+core/gridlabd-version.o: core/version.c core/version.h core/config.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\time.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_timeval.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\time_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\timeb.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_time.h \
+ core/build.h
+
+core/version.h:
+
+core/config.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\time.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_timeval.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\time_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\timeb.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_time.h:
+
+core/build.h:

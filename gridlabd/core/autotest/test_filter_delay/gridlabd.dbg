@@ -1,0 +1,2 @@
+DEBUG [INIT] : defining transfer function delay(z) = 1/z, step=300s, skew=10s
+DEBUG [INIT] : added filter 'delay' from source 'to:value' to target 'from:value'

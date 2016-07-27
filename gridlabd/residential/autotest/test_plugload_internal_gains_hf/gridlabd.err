@@ -1,0 +1,3 @@
+ERROR    [2000-01-01 00:00:00 PST] : recorder: property 'enduse_load' not found
+ERROR    [2000-01-01 00:00:00 PST] : recorder 3 'demand,enduse_load,heatgain_fraction,heatgain' contains a property of plugload 1 that is not found
+

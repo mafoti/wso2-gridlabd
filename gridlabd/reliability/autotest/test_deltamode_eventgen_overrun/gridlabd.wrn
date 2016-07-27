@@ -1,0 +1,4 @@
+WARNING  [INIT] : Maximum outage for testgendev was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendev does not have a metrics object as a parent -- metrics are not calculated.
+WARNING  [INIT] : event_gen:testgendev has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [01-01-2001 00:00:00 PST] : Restoration object not detected!

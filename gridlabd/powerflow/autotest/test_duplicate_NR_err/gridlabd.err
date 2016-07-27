@@ -1,0 +1,5 @@
+ERROR    [2000-01-01 00:00:00 EST] : sync_node(obj=5;node1): NR: duplicate admittance entry found - check for parallel circuits between common nodes!
+ERROR    [2000-01-01 00:00:00 EST] : 2000-01-01 00:00:00 EST: object node1 stopped its clock (exec)!
+ERROR    [2000-01-01 00:00:00 EST] : exec halted: synchronization failed
+FATAL    [2000-01-01 00:00:00 EST] : shutdown after simulation stopped prematurely
+FATAL    [2000-01-01 00:00:00 EST] : environment startup failed: Invalid argument

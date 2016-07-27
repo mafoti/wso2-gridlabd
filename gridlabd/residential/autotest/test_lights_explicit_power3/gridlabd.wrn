@@ -1,0 +1,3 @@
+WARNING  [INIT] : house_e:0 has no parent triplex_meter defined; using static voltages
+WARNING  [INIT] : No value was given for power factor. Defaulting to power factor 1.00 and incandescent light type.
+WARNING  [INIT] : No value was given for power fraction. Defaulting to incandescent light type and corresponding power fraction 1,0,0.

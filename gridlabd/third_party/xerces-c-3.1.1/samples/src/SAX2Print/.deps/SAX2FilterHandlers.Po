@@ -1,0 +1,326 @@
+src/SAX2Print/SAX2FilterHandlers.o: src/SAX2Print/SAX2FilterHandlers.cpp \
+ src/SAX2Print/SAX2FilterHandlers.hpp \
+ ../src/xercesc/parsers/SAX2XMLFilterImpl.hpp \
+ ../src/xercesc/sax2/SAX2XMLFilter.hpp \
+ ../src/xercesc/sax2/SAX2XMLReader.hpp ../src/xercesc/util/XercesDefs.hpp \
+ ../src/xercesc/util/Xerces_autoconf_config.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\wchar.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_stat64.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\wchar_s.h \
+ ../src/xercesc/util/XercesVersion.hpp ../src/xercesc/util/XMLUniDefs.hpp \
+ ../src/xercesc/framework/XMLValidator.hpp \
+ ../src/xercesc/framework/XMLAttr.hpp \
+ ../src/xercesc/util/PlatformUtils.hpp \
+ ../src/xercesc/util/XMLException.hpp ../src/xercesc/util/XMemory.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h \
+ ../src/xercesc/util/XMLExceptMsgs.hpp ../src/xercesc/dom/DOMError.hpp \
+ ../src/xercesc/util/XMLUni.hpp \
+ ../src/xercesc/framework/XMLErrorReporter.hpp \
+ ../src/xercesc/util/PanicHandler.hpp ../src/xercesc/util/XMLFileMgr.hpp \
+ ../src/xercesc/util/XMLMutexMgr.hpp ../src/xercesc/util/QName.hpp \
+ ../src/xercesc/util/XMLString.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.hpp \
+ ../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp \
+ ../src/xercesc/util/XMLEnumerator.hpp \
+ ../src/xercesc/framework/MemoryManager.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.c \
+ ../src/xercesc/framework/XMLBuffer.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\assert.h \
+ ../src/xercesc/internal/XSerializable.hpp \
+ ../src/xercesc/internal/XSerializeEngine.hpp \
+ ../src/xercesc/util/RefHashTableOf.hpp ../src/xercesc/util/Hashers.hpp \
+ ../src/xercesc/util/IllegalArgumentException.hpp \
+ ../src/xercesc/util/NoSuchElementException.hpp \
+ ../src/xercesc/util/RuntimeException.hpp \
+ ../src/xercesc/util/RefHashTableOf.c ../src/xercesc/util/Janitor.hpp \
+ ../src/xercesc/util/Janitor.c \
+ ../src/xercesc/util/NullPointerException.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\new \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\c++config.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\os_defines.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\cpu_defines.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\exception \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\bits\atomic_lockfree_defines.h \
+ ../src/xercesc/util/ValueVectorOf.hpp \
+ ../src/xercesc/util/ValueVectorOf.c \
+ ../src/xercesc/internal/XSerializationException.hpp \
+ ../src/xercesc/internal/XProtoType.hpp \
+ ../src/xercesc/framework/XMLAttDef.hpp \
+ ../src/xercesc/validators/datatype/DatatypeValidator.hpp \
+ ../src/xercesc/util/KVStringPair.hpp \
+ ../src/xercesc/util/regx/RegularExpression.hpp \
+ ../src/xercesc/util/RefArrayVectorOf.hpp \
+ ../src/xercesc/util/RefArrayVectorOf.c ../src/xercesc/util/regx/Op.hpp \
+ ../src/xercesc/util/RefVectorOf.hpp ../src/xercesc/util/RefVectorOf.c \
+ ../src/xercesc/util/regx/TokenFactory.hpp \
+ ../src/xercesc/util/regx/Token.hpp ../src/xercesc/util/Mutexes.hpp \
+ ../src/xercesc/util/regx/BMPattern.hpp \
+ ../src/xercesc/util/regx/OpFactory.hpp \
+ ../src/xercesc/util/regx/RegxUtil.hpp \
+ ../src/xercesc/validators/schema/SchemaSymbols.hpp \
+ ../src/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSTypeDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSObject.hpp \
+ ../src/xercesc/framework/psvi/XSConstants.hpp \
+ ../src/xercesc/framework/ValidationContext.hpp \
+ ../src/xercesc/util/NameIdPool.hpp ../src/xercesc/util/NameIdPool.c \
+ ../src/xercesc/framework/XMLValidityCodes.hpp \
+ ../src/xercesc/framework/XMLPScanToken.hpp \
+ ../src/xercesc/validators/common/Grammar.hpp \
+ ../src/xercesc/framework/XMLElementDecl.hpp \
+ ../src/xercesc/framework/XMLAttDefList.hpp \
+ ../src/xercesc/framework/XMLEntityDecl.hpp \
+ ../src/xercesc/framework/XMLNotationDecl.hpp \
+ ../src/xercesc/sax/EntityResolver.hpp ../src/xercesc/sax/DTDHandler.hpp \
+ ../src/xercesc/sax2/ContentHandler.hpp \
+ ../src/xercesc/sax/ErrorHandler.hpp ../src/xercesc/sax2/Attributes.hpp
+
+src/SAX2Print/SAX2FilterHandlers.hpp:
+
+../src/xercesc/parsers/SAX2XMLFilterImpl.hpp:
+
+../src/xercesc/sax2/SAX2XMLFilter.hpp:
+
+../src/xercesc/sax2/SAX2XMLReader.hpp:
+
+../src/xercesc/util/XercesDefs.hpp:
+
+../src/xercesc/util/Xerces_autoconf_config.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\wchar.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_stat64.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\wchar_s.h:
+
+../src/xercesc/util/XercesVersion.hpp:
+
+../src/xercesc/util/XMLUniDefs.hpp:
+
+../src/xercesc/framework/XMLValidator.hpp:
+
+../src/xercesc/framework/XMLAttr.hpp:
+
+../src/xercesc/util/PlatformUtils.hpp:
+
+../src/xercesc/util/XMLException.hpp:
+
+../src/xercesc/util/XMemory.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h:
+
+../src/xercesc/util/XMLExceptMsgs.hpp:
+
+../src/xercesc/dom/DOMError.hpp:
+
+../src/xercesc/util/XMLUni.hpp:
+
+../src/xercesc/framework/XMLErrorReporter.hpp:
+
+../src/xercesc/util/PanicHandler.hpp:
+
+../src/xercesc/util/XMLFileMgr.hpp:
+
+../src/xercesc/util/XMLMutexMgr.hpp:
+
+../src/xercesc/util/QName.hpp:
+
+../src/xercesc/util/XMLString.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.hpp:
+
+../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp:
+
+../src/xercesc/util/XMLEnumerator.hpp:
+
+../src/xercesc/framework/MemoryManager.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.c:
+
+../src/xercesc/framework/XMLBuffer.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\assert.h:
+
+../src/xercesc/internal/XSerializable.hpp:
+
+../src/xercesc/internal/XSerializeEngine.hpp:
+
+../src/xercesc/util/RefHashTableOf.hpp:
+
+../src/xercesc/util/Hashers.hpp:
+
+../src/xercesc/util/IllegalArgumentException.hpp:
+
+../src/xercesc/util/NoSuchElementException.hpp:
+
+../src/xercesc/util/RuntimeException.hpp:
+
+../src/xercesc/util/RefHashTableOf.c:
+
+../src/xercesc/util/Janitor.hpp:
+
+../src/xercesc/util/Janitor.c:
+
+../src/xercesc/util/NullPointerException.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\new:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\c++config.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\os_defines.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\cpu_defines.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\exception:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\bits\atomic_lockfree_defines.h:
+
+../src/xercesc/util/ValueVectorOf.hpp:
+
+../src/xercesc/util/ValueVectorOf.c:
+
+../src/xercesc/internal/XSerializationException.hpp:
+
+../src/xercesc/internal/XProtoType.hpp:
+
+../src/xercesc/framework/XMLAttDef.hpp:
+
+../src/xercesc/validators/datatype/DatatypeValidator.hpp:
+
+../src/xercesc/util/KVStringPair.hpp:
+
+../src/xercesc/util/regx/RegularExpression.hpp:
+
+../src/xercesc/util/RefArrayVectorOf.hpp:
+
+../src/xercesc/util/RefArrayVectorOf.c:
+
+../src/xercesc/util/regx/Op.hpp:
+
+../src/xercesc/util/RefVectorOf.hpp:
+
+../src/xercesc/util/RefVectorOf.c:
+
+../src/xercesc/util/regx/TokenFactory.hpp:
+
+../src/xercesc/util/regx/Token.hpp:
+
+../src/xercesc/util/Mutexes.hpp:
+
+../src/xercesc/util/regx/BMPattern.hpp:
+
+../src/xercesc/util/regx/OpFactory.hpp:
+
+../src/xercesc/util/regx/RegxUtil.hpp:
+
+../src/xercesc/validators/schema/SchemaSymbols.hpp:
+
+../src/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSTypeDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSObject.hpp:
+
+../src/xercesc/framework/psvi/XSConstants.hpp:
+
+../src/xercesc/framework/ValidationContext.hpp:
+
+../src/xercesc/util/NameIdPool.hpp:
+
+../src/xercesc/util/NameIdPool.c:
+
+../src/xercesc/framework/XMLValidityCodes.hpp:
+
+../src/xercesc/framework/XMLPScanToken.hpp:
+
+../src/xercesc/validators/common/Grammar.hpp:
+
+../src/xercesc/framework/XMLElementDecl.hpp:
+
+../src/xercesc/framework/XMLAttDefList.hpp:
+
+../src/xercesc/framework/XMLEntityDecl.hpp:
+
+../src/xercesc/framework/XMLNotationDecl.hpp:
+
+../src/xercesc/sax/EntityResolver.hpp:
+
+../src/xercesc/sax/DTDHandler.hpp:
+
+../src/xercesc/sax2/ContentHandler.hpp:
+
+../src/xercesc/sax/ErrorHandler.hpp:
+
+../src/xercesc/sax2/Attributes.hpp:

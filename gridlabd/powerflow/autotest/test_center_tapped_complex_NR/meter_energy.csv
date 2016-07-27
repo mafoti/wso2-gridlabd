@@ -1,0 +1,9 @@
+# file...... meter_energy.csv
+# date...... Thu Jul 07 15:45:11 2016
+# user...... gridlabd
+# host...... (null)
+# target.... triplex_meter 7
+# trigger... (none)
+# interval.. 3600
+# limit..... 27
+# timestamp,measured_real_energy

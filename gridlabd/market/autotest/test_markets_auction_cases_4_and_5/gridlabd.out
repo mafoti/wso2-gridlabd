@@ -1,0 +1,1252 @@
+   ...Market_1 first clearing at 2001-01-01 00:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 00:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 00:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 00:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 00:30:00 PST
+   ...Market_1 opens for clearing of market_id 2 at 2001-01-01 01:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 00:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 00:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 01:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 01:00:00 PST
+   ...Market_1 opens for clearing of market_id 3 at 2001-01-01 01:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 01:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 01:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 01:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 01:30:00 PST
+   ...Market_1 opens for clearing of market_id 4 at 2001-01-01 02:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 01:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 01:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 02:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 02:00:00 PST
+   ...Market_1 opens for clearing of market_id 5 at 2001-01-01 02:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 02:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 02:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 02:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 02:30:00 PST
+   ...Market_1 opens for clearing of market_id 6 at 2001-01-01 03:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 02:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 02:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 03:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 03:00:00 PST
+   ...Market_1 opens for clearing of market_id 7 at 2001-01-01 03:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 03:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 03:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 03:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 03:30:00 PST
+   ...Market_1 opens for clearing of market_id 8 at 2001-01-01 04:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 03:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 03:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 04:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 04:00:00 PST
+   ...Market_1 opens for clearing of market_id 9 at 2001-01-01 04:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 04:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 04:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 04:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 04:30:00 PST
+   ...Market_1 opens for clearing of market_id 10 at 2001-01-01 05:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 04:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 04:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 05:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 05:00:00 PST
+   ...Market_1 opens for clearing of market_id 11 at 2001-01-01 05:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 05:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 05:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 05:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 05:30:00 PST
+   ...Market_1 opens for clearing of market_id 12 at 2001-01-01 06:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 05:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 05:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 06:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 06:00:00 PST
+   ...Market_1 opens for clearing of market_id 13 at 2001-01-01 06:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 06:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 06:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 06:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 06:30:00 PST
+   ...Market_1 opens for clearing of market_id 14 at 2001-01-01 07:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 06:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 06:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 07:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 07:00:00 PST
+   ...Market_1 opens for clearing of market_id 15 at 2001-01-01 07:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 07:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 07:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 07:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 07:30:00 PST
+   ...Market_1 opens for clearing of market_id 16 at 2001-01-01 08:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 07:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 07:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 08:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 08:00:00 PST
+   ...Market_1 opens for clearing of market_id 17 at 2001-01-01 08:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 08:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 08:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 08:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 08:30:00 PST
+   ...Market_1 opens for clearing of market_id 18 at 2001-01-01 09:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 08:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 08:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 09:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 09:00:00 PST
+   ...Market_1 opens for clearing of market_id 19 at 2001-01-01 09:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 09:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 09:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 09:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 09:30:00 PST
+   ...Market_1 opens for clearing of market_id 20 at 2001-01-01 10:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 09:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 09:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 10:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 10:00:00 PST
+   ...Market_1 opens for clearing of market_id 21 at 2001-01-01 10:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 10:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 10:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 10:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 10:30:00 PST
+   ...Market_1 opens for clearing of market_id 22 at 2001-01-01 11:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 10:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 10:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 11:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 11:00:00 PST
+   ...Market_1 opens for clearing of market_id 23 at 2001-01-01 11:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 11:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 11:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 11:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 11:30:00 PST
+   ...Market_1 opens for clearing of market_id 24 at 2001-01-01 12:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 11:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 11:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 12:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 12:00:00 PST
+   ...Market_1 opens for clearing of market_id 25 at 2001-01-01 12:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 12:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 12:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 12:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 12:30:00 PST
+   ...Market_1 opens for clearing of market_id 26 at 2001-01-01 13:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 12:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-01 12:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 13:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 13:00:00 PST
+   ...Market_1 opens for clearing of market_id 27 at 2001-01-01 13:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 13:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 13:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 13:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 13:30:00 PST
+   ...Market_1 opens for clearing of market_id 28 at 2001-01-01 14:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 13:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 13:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 14:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 14:00:00 PST
+   ...Market_1 opens for clearing of market_id 29 at 2001-01-01 14:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 14:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 14:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 14:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 14:30:00 PST
+   ...Market_1 opens for clearing of market_id 30 at 2001-01-01 15:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 14:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 14:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 15:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 15:00:00 PST
+   ...Market_1 opens for clearing of market_id 31 at 2001-01-01 15:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 15:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 15:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 15:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 15:30:00 PST
+   ...Market_1 opens for clearing of market_id 32 at 2001-01-01 16:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 15:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 15:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 16:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 16:00:00 PST
+   ...Market_1 opens for clearing of market_id 33 at 2001-01-01 16:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 16:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 16:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 16:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 16:30:00 PST
+   ...Market_1 opens for clearing of market_id 34 at 2001-01-01 17:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 16:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 16:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 17:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 17:00:00 PST
+   ...Market_1 opens for clearing of market_id 35 at 2001-01-01 17:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 17:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 17:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 17:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 17:30:00 PST
+   ...Market_1 opens for clearing of market_id 36 at 2001-01-01 18:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 17:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 17:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 18:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 18:00:00 PST
+   ...Market_1 opens for clearing of market_id 37 at 2001-01-01 18:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 18:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 18:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 18:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 18:30:00 PST
+   ...Market_1 opens for clearing of market_id 38 at 2001-01-01 19:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 18:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 18:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 19:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 19:00:00 PST
+   ...Market_1 opens for clearing of market_id 39 at 2001-01-01 19:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 19:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 19:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 19:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 19:30:00 PST
+   ...Market_1 opens for clearing of market_id 40 at 2001-01-01 20:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 19:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 19:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 20:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 20:00:00 PST
+   ...Market_1 opens for clearing of market_id 41 at 2001-01-01 20:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 20:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 20:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 20:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 20:30:00 PST
+   ...Market_1 opens for clearing of market_id 42 at 2001-01-01 21:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 20:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 20:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 21:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 21:00:00 PST
+   ...Market_1 opens for clearing of market_id 43 at 2001-01-01 21:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 21:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 21:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 21:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 21:30:00 PST
+   ...Market_1 opens for clearing of market_id 44 at 2001-01-01 22:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 21:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 21:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 22:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 22:00:00 PST
+   ...Market_1 opens for clearing of market_id 45 at 2001-01-01 22:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 22:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 22:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 22:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 22:30:00 PST
+   ...Market_1 opens for clearing of market_id 46 at 2001-01-01 23:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 22:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 22:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 23:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 23:00:00 PST
+   ...Market_1 opens for clearing of market_id 47 at 2001-01-01 23:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 23:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 23:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-01 23:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-01 23:30:00 PST
+   ...Market_1 opens for clearing of market_id 48 at 2001-01-02 00:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 23:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-01 23:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 00:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 00:00:00 PST
+   ...Market_1 opens for clearing of market_id 49 at 2001-01-02 00:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 00:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 00:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 00:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 00:30:00 PST
+   ...Market_1 opens for clearing of market_id 50 at 2001-01-02 01:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 00:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 00:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 01:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 01:00:00 PST
+   ...Market_1 opens for clearing of market_id 51 at 2001-01-02 01:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 01:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 01:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 01:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 01:30:00 PST
+   ...Market_1 opens for clearing of market_id 52 at 2001-01-02 02:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 01:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 01:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 02:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 02:00:00 PST
+   ...Market_1 opens for clearing of market_id 53 at 2001-01-02 02:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 02:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 02:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 02:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 02:30:00 PST
+   ...Market_1 opens for clearing of market_id 54 at 2001-01-02 03:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 02:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 02:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 03:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 03:00:00 PST
+   ...Market_1 opens for clearing of market_id 55 at 2001-01-02 03:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 03:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 03:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 03:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 03:30:00 PST
+   ...Market_1 opens for clearing of market_id 56 at 2001-01-02 04:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 03:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 03:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 04:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 04:00:00 PST
+   ...Market_1 opens for clearing of market_id 57 at 2001-01-02 04:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 04:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 04:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 04:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 04:30:00 PST
+   ...Market_1 opens for clearing of market_id 58 at 2001-01-02 05:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 04:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 04:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 05:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 05:00:00 PST
+   ...Market_1 opens for clearing of market_id 59 at 2001-01-02 05:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 05:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 05:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 05:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 05:30:00 PST
+   ...Market_1 opens for clearing of market_id 60 at 2001-01-02 06:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 05:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 05:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 06:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 06:00:00 PST
+   ...Market_1 opens for clearing of market_id 61 at 2001-01-02 06:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 06:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 06:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 06:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 06:30:00 PST
+   ...Market_1 opens for clearing of market_id 62 at 2001-01-02 07:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 06:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 06:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 07:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 07:00:00 PST
+   ...Market_1 opens for clearing of market_id 63 at 2001-01-02 07:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 07:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 07:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 07:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 07:30:00 PST
+   ...Market_1 opens for clearing of market_id 64 at 2001-01-02 08:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 07:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 07:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 08:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 08:00:00 PST
+   ...Market_1 opens for clearing of market_id 65 at 2001-01-02 08:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 08:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 08:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 08:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 08:30:00 PST
+   ...Market_1 opens for clearing of market_id 66 at 2001-01-02 09:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 08:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 08:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 09:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 09:00:00 PST
+   ...Market_1 opens for clearing of market_id 67 at 2001-01-02 09:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 09:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 09:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 09:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 09:30:00 PST
+   ...Market_1 opens for clearing of market_id 68 at 2001-01-02 10:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 09:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 09:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 10:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 10:00:00 PST
+   ...Market_1 opens for clearing of market_id 69 at 2001-01-02 10:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 10:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 10:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 10:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 10:30:00 PST
+   ...Market_1 opens for clearing of market_id 70 at 2001-01-02 11:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 10:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 10:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 11:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 11:00:00 PST
+   ...Market_1 opens for clearing of market_id 71 at 2001-01-02 11:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 11:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 11:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 11:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 11:30:00 PST
+   ...Market_1 opens for clearing of market_id 72 at 2001-01-02 12:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 11:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 11:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 12:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 12:00:00 PST
+   ...Market_1 opens for clearing of market_id 73 at 2001-01-02 12:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 12:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 12:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 12:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 12:30:00 PST
+   ...Market_1 opens for clearing of market_id 74 at 2001-01-02 13:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 12:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-02 12:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 13:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 10.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 25.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 13:00:00 PST
+   ...Market_1 opens for clearing of market_id 75 at 2001-01-02 13:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 13:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 13:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 13:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 13:30:00 PST
+   ...Market_1 opens for clearing of market_id 76 at 2001-01-02 14:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 13:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 13:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 14:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 14:00:00 PST
+   ...Market_1 opens for clearing of market_id 77 at 2001-01-02 14:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 14:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 14:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 14:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 14:30:00 PST
+   ...Market_1 opens for clearing of market_id 78 at 2001-01-02 15:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 14:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 14:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 15:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 15:00:00 PST
+   ...Market_1 opens for clearing of market_id 79 at 2001-01-02 15:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 15:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 15:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 15:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 15:30:00 PST
+   ...Market_1 opens for clearing of market_id 80 at 2001-01-02 16:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 15:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 15:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 16:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 16:00:00 PST
+   ...Market_1 opens for clearing of market_id 81 at 2001-01-02 16:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 16:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 16:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 16:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 16:30:00 PST
+   ...Market_1 opens for clearing of market_id 82 at 2001-01-02 17:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 16:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 16:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 17:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 17:00:00 PST
+   ...Market_1 opens for clearing of market_id 83 at 2001-01-02 17:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 17:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 17:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 17:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 17:30:00 PST
+   ...Market_1 opens for clearing of market_id 84 at 2001-01-02 18:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 17:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 17:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 18:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 18:00:00 PST
+   ...Market_1 opens for clearing of market_id 85 at 2001-01-02 18:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 18:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 18:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 18:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 18:30:00 PST
+   ...Market_1 opens for clearing of market_id 86 at 2001-01-02 19:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 18:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 18:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 19:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 19:00:00 PST
+   ...Market_1 opens for clearing of market_id 87 at 2001-01-02 19:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 19:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 19:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 19:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 19:30:00 PST
+   ...Market_1 opens for clearing of market_id 88 at 2001-01-02 20:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 19:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 19:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 20:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 20:00:00 PST
+   ...Market_1 opens for clearing of market_id 89 at 2001-01-02 20:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 20:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 20:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 20:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 20:30:00 PST
+   ...Market_1 opens for clearing of market_id 90 at 2001-01-02 21:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 20:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 20:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 21:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 21:00:00 PST
+   ...Market_1 opens for clearing of market_id 91 at 2001-01-02 21:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 21:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 21:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 21:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 21:30:00 PST
+   ...Market_1 opens for clearing of market_id 92 at 2001-01-02 22:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 21:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 21:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 22:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 22:00:00 PST
+   ...Market_1 opens for clearing of market_id 93 at 2001-01-02 22:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 22:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 22:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 22:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 22:30:00 PST
+   ...Market_1 opens for clearing of market_id 94 at 2001-01-02 23:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 22:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 22:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 23:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 23:00:00 PST
+   ...Market_1 opens for clearing of market_id 95 at 2001-01-02 23:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 23:00:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 23:05:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-02 23:30:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-02 23:30:00 PST
+   ...Market_1 opens for clearing of market_id 96 at 2001-01-03 00:00:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 23:30:00 PST
+last message was repeated 3 times
+   ...  Market_1 resubmits ask from object buyer_1 for 1.00 MWh at $30.00/MWh at 2001-01-02 23:35:00 PST
+last message was repeated 4 times
+   ...Market_1 clearing process started at 2001-01-03 00:00:00 PST
+   ...  supply curve
+   ...     0: buyer_1 offers 1.000 MWh at 15.00 $/MWh
+last message was repeated 1 times
+   ...  demand curve
+   ...     0: buyer_1 asks 1.000 MWh at 30.00 $/MWh
+last message was repeated 1 times
+   ...  Market_1 clears 1.00 MWh at $20.00/MWh at 2001-01-03 00:00:00 PST
+   ...Market_1 opens for clearing of market_id 97 at 2001-01-03 00:30:00 PST
+   ...  Market_1 receives ask from object buyer_1 for 1.00 MWh at $25.00/MWh at 2001-01-03 00:00:00 PST
+last message was repeated 3 times
+

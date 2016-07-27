@@ -1,0 +1,3 @@
+WARNING  [INIT] : class_find_property(CLASS *oclass='auction', PROPERTYNAME name='pricecap': property is deprecated
+WARNING  [INIT] : last warning message was repeated 1 times
+WARNING  [INIT] : house_e:1 has no parent triplex_meter defined; using static voltages

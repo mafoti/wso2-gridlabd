@@ -1,0 +1,5 @@
+ERROR    [INIT] : init_microwave(obj=1;unnamed): negative cycle_length is an invalid value
+ERROR    [INIT] : init_by_deferral(): object microwave:1 initialization failed
+ERROR    [INIT] : model initialization failed
+FATAL    [INIT] : shutdown after simulation stopped prematurely
+FATAL    [INIT] : environment startup failed: Invalid argument

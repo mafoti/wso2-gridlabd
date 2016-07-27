@@ -1,0 +1,33 @@
+# file...... test_lights_implicit_power.csv
+# date...... Thu Jul 07 15:45:54 2016
+# user...... gridlabd
+# host...... (null)
+# target.... house 0
+# trigger... (none)
+# interval.. 3600
+# limit..... 10000
+# timestamp,panel
+2001-07-03 01:00:00 PDT,power_factor: 0.000000; power.r: 0.103360; power.i: 0.025904
+2001-07-03 02:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-03 03:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-03 04:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-03 05:00:00 PDT,power_factor: 0.000000; power.r: 0.106400; power.i: 0.026666
+2001-07-03 06:00:00 PDT,power_factor: 0.000000; power.r: 0.124640; power.i: 0.031238
+2001-07-03 07:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 08:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 09:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 10:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 11:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 12:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 13:00:00 PDT,power_factor: 0.000000; power.r: 0.133760; power.i: 0.033523
+2001-07-03 14:00:00 PDT,power_factor: 0.000000; power.r: 0.133760; power.i: 0.033523
+2001-07-03 15:00:00 PDT,power_factor: 0.000000; power.r: 0.136800; power.i: 0.034285
+2001-07-03 16:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-03 17:00:00 PDT,power_factor: 0.000000; power.r: 0.155040; power.i: 0.038857
+2001-07-03 18:00:00 PDT,power_factor: 0.000000; power.r: 0.164160; power.i: 0.041142
+2001-07-03 19:00:00 PDT,power_factor: 0.000000; power.r: 0.170240; power.i: 0.042666
+2001-07-03 20:00:00 PDT,power_factor: 0.000000; power.r: 0.191520; power.i: 0.047999
+2001-07-03 21:00:00 PDT,power_factor: 0.000000; power.r: 0.215840; power.i: 0.054095
+2001-07-03 22:00:00 PDT,power_factor: 0.000000; power.r: 0.197600; power.i: 0.049523
+2001-07-03 23:00:00 PDT,power_factor: 0.000000; power.r: 0.148960; power.i: 0.037333
+2001-07-04 00:00:00 PDT,power_factor: 0.000000; power.r: 0.115520; power.i: 0.028952

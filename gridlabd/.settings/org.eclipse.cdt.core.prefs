@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1948831541/GLPATH/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1948831541/GLPATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1948831541/GLPATH/value=C\:\\gridlabd\\install64\\lib\\gridlabd;C\:\\gridlabd\\install64\\share\\gridlabd
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1948831541/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.mingw.base.1948831541/appendContributed=true

@@ -1,0 +1,33 @@
+# file...... test_lights_implicit_power.csv
+# date...... Thu Jul 07 15:45:55 2016
+# user...... gridlabd
+# host...... (null)
+# target.... house 0
+# trigger... (none)
+# interval.. 3600
+# limit..... 10000
+# timestamp,panel
+2001-07-01 00:00:00 PDT,power_factor: 0.000000; power.r: 0.124640; power.i: 0.031238
+2001-07-01 01:00:00 PDT,power_factor: 0.000000; power.r: 0.109440; power.i: 0.027428
+2001-07-01 02:00:00 PDT,power_factor: 0.000000; power.r: 0.100320; power.i: 0.025143
+2001-07-01 03:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-01 04:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-01 05:00:00 PDT,power_factor: 0.000000; power.r: 0.097280; power.i: 0.024381
+2001-07-01 06:00:00 PDT,power_factor: 0.000000; power.r: 0.103360; power.i: 0.025904
+2001-07-01 07:00:00 PDT,power_factor: 0.000000; power.r: 0.118560; power.i: 0.029714
+2001-07-01 08:00:00 PDT,power_factor: 0.000000; power.r: 0.133760; power.i: 0.033523
+2001-07-01 09:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-01 10:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-01 11:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-01 12:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-01 13:00:00 PDT,power_factor: 0.000000; power.r: 0.139840; power.i: 0.035047
+2001-07-01 14:00:00 PDT,power_factor: 0.000000; power.r: 0.139840; power.i: 0.035047
+2001-07-01 15:00:00 PDT,power_factor: 0.000000; power.r: 0.139840; power.i: 0.035047
+2001-07-01 16:00:00 PDT,power_factor: 0.000000; power.r: 0.142880; power.i: 0.035809
+2001-07-01 17:00:00 PDT,power_factor: 0.000000; power.r: 0.148960; power.i: 0.037333
+2001-07-01 18:00:00 PDT,power_factor: 0.000000; power.r: 0.158080; power.i: 0.039619
+2001-07-01 19:00:00 PDT,power_factor: 0.000000; power.r: 0.164160; power.i: 0.041142
+2001-07-01 20:00:00 PDT,power_factor: 0.000000; power.r: 0.185440; power.i: 0.046476
+2001-07-01 21:00:00 PDT,power_factor: 0.000000; power.r: 0.206720; power.i: 0.051809
+2001-07-01 22:00:00 PDT,power_factor: 0.000000; power.r: 0.191520; power.i: 0.047999
+2001-07-01 23:00:00 PDT,power_factor: 0.000000; power.r: 0.152000; power.i: 0.038095

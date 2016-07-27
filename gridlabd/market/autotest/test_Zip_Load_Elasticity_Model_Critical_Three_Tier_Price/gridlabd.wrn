@@ -1,0 +1,5 @@
+WARNING  [INIT] : csv_reader::read_line ~ sample on line 2097 does not advance in time and has been discarded
+WARNING  [INIT] : last warning message was repeated 1 times
+WARNING  [INIT] : house_e:10 parent is not a triplex_meter; using static voltages
+WARNING  [INIT] : Old third tier price is missing. System will assume the old pricing scheme was a fixed pricing scheme and use the old first tier price
+WARNING  [INIT] : Old second tier price is missing. System will assume the old pricing scheme was a fixed pricing scheme and use the old first tier price

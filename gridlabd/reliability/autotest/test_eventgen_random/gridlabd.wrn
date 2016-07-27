@@ -1,0 +1,61 @@
+WARNING  [INIT] : Maximum outage for testgendev_rand was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendev_rand has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [2000-01-01 00:00:00 PST] : Restoration object not detected!
+WARNING  [2000-01-01 08:09:18 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 08:09:18 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 08:09:18 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 08:37:57 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 08:37:57 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 08:37:57 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 09:30:29 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 09:30:29 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 09:30:29 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 09:46:45 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 09:46:45 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 09:46:45 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 10:08:20 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:08:20 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:08:20 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 11:34:43 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 11:34:43 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 11:34:43 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 11:43:39 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 11:43:39 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 11:43:39 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 15:18:23 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 15:18:23 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 15:18:23 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 15:25:04 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 15:25:04 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 15:25:04 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 16:54:29 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 16:54:29 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 16:54:29 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 17:15:50 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 17:15:50 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 17:15:50 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 17:41:32 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 17:41:32 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 17:41:32 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 18:54:10 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 18:54:10 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 18:54:10 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 18:55:17 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 18:55:17 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 18:55:17 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 19:36:39 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 19:36:39 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 19:36:39 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 19:36:39 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 19:41:56 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 19:41:56 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 19:41:56 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 20:24:27 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 20:24:27 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 20:24:27 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 21:16:20 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 21:16:20 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 21:16:20 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 21:18:15 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 21:18:15 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 21:18:15 PST] : Unsupported phase on node load834

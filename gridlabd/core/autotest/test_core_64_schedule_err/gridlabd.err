@@ -1,0 +1,5 @@
+ERROR    [INIT] : schedule_compile(SCHEDULE *sch='{name=zip_power, ...}') maximum number of values reached in block 0
+ERROR    [INIT] : deferred creation of schedule 'zip_power' failed
+test_core_64_schedule_err.glm(12): schedule 'zip_power' is not valid
+test_core_64_schedule_err.glm(12): load failed at or near 'schedule zip...'
+FATAL    [INIT] : shutdown after command line rejected

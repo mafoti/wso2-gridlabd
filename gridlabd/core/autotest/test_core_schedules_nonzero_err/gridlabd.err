@@ -1,0 +1,6 @@
+ERROR    [INIT] : schedule nonzero_schedule fails 'nonzero' validation in block * at schedule index 0
+ERROR    [INIT] : schedule nonzero_schedule fails 'nonzero' validation with unfilled entries
+ERROR    [INIT] : deferred creation of schedule 'nonzero_schedule' failed
+test_core_schedules_nonzero_err.glm(13): schedule 'nonzero_schedule' is not valid
+test_core_schedules_nonzero_err.glm(13): load failed at or near 'schedule non...'
+FATAL    [INIT] : shutdown after command line rejected

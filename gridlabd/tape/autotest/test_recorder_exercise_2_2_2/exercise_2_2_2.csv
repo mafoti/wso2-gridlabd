@@ -1,0 +1,13 @@
+# file...... exercise_2_2_2.csv
+# date...... Thu Jul 07 15:46:42 2016
+# user...... gridlabd
+# host...... (null)
+# target.... waterheater 1
+# trigger... (none)
+# interval.. -1
+# limit..... 100
+# timestamp,actual_load
+2001-01-01 00:00:00 PST,+0
+2001-01-01 20:15:41 PST,+4.5
+2001-01-01 20:20:01 PST,+0
+2001-01-02 12:12:03 PST,+4.5

@@ -1,0 +1,9 @@
+WARNING  [INIT] : object name '1-2' does not follow strict naming rules and may not link correctly during load time
+WARNING  [INIT] : last warning message was repeated 264 times
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [INIT] : last warning message was repeated 7 times
+WARNING  [INIT] : 94 (id:317) already has a link parented - this could give invalid answers in FBS!
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [INIT] : 300 (id:232) already has a link parented - this could give invalid answers in FBS!
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 2 times

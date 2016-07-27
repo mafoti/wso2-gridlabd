@@ -1,0 +1,37 @@
+WARNING  [INIT] : eventgen:testgendever - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgendever was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendever has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : eventgen:testgendev - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgendev was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendev has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : eventgen:testgendevTLL - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgendevTLL was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendevTLL has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : eventgen:testgen_fuse - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgen_fuse was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgen_fuse has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : eventgen:testgen_sw - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgen_sw was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgen_sw has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : eventgen:testgendevB - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgendevB was above global max - restricted to global max
+WARNING  [INIT] : Outage length for object:node720-706 is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [INIT] : last warning message was repeated 1 times
+WARNING  [INIT] : event_gen:testgendevB has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [2000-01-01 00:00:00 PST] : Restoration object not detected!
+WARNING  [2000-01-01 03:00:00 PST] : Phase A of fuse:node703-703b just blew!
+WARNING  [2000-01-01 03:00:00 PST] : Phase B of fuse:node703-703b just blew!
+WARNING  [2000-01-01 03:00:00 PST] : Phase C of fuse:node703-703b just blew!
+WARNING  [2000-01-01 03:00:00 PST] : Outage length for object:node703-703b is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 03:00:00 PST] : Unsupported phase on node load827
+WARNING  [2000-01-01 05:03:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 05:03:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 05:03:00 PST] : Unsupported phase on node load820
+WARNING  [2000-01-01 05:21:00 PST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 05:21:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 05:21:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 05:21:00 PST] : Unsupported phase on node node708b
+WARNING  [2000-01-01 10:25:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:25:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:25:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 20:00:00 PST] : last warning message was repeated 1 times

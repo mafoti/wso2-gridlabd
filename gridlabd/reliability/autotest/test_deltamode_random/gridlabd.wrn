@@ -1,0 +1,5 @@
+WARNING  [INIT] : Maximum outage for testgendev_rand was above global max - restricted to global max
+WARNING  [INIT] : event_gen:testgendev_rand has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [INIT] : load:load814a - constant_current loads in deltamode are handled slightly different
+WARNING  [2000-01-01 00:00:00 PST] : last warning message was repeated 5 times
+WARNING  [2000-01-01 00:00:00 PST] : Restoration object not detected!

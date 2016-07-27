@@ -1,0 +1,2 @@
+gcc -m64 -DWIN32 -c "noise_source.c" -o "noise_source.o" 
+gcc -m64  -shared "noise_source.o" -o "noise_source.dll"

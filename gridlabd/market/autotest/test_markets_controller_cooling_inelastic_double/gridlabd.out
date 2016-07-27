@@ -1,0 +1,64 @@
+   ...Market_1 first clearing at 2001-06-25 14:15:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $100.00/MW at 2001-06-25 14:00:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 14:15:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 100.00 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.01 MW at $10.00/MW at 2001-06-25 14:15:00 PDT
+   ...Market_1 opens for clearing of market_id 2 at 2001-06-25 14:30:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $55.00/MW at 2001-06-25 14:15:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 14:30:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 55.00 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.01 MW at $25.00/MW at 2001-06-25 14:30:00 PDT
+   ...Market_1 opens for clearing of market_id 3 at 2001-06-25 14:45:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $19.22/MW at 2001-06-25 14:30:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 14:45:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 19.22 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.00 MW at $112.00/MW at 2001-06-25 14:45:00 PDT
+   ...Market_1 opens for clearing of market_id 4 at 2001-06-25 15:00:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $115.50/MW at 2001-06-25 14:45:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 15:00:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 115.50 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.01 MW at $49.50/MW at 2001-06-25 15:00:00 PDT
+   ...Market_1 opens for clearing of market_id 5 at 2001-06-25 15:15:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $99.78/MW at 2001-06-25 15:00:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 15:15:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 99.78 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.01 MW at $49.80/MW at 2001-06-25 15:15:00 PDT
+   ...Market_1 opens for clearing of market_id 6 at 2001-06-25 15:30:00 PDT
+   ...Market_1 clearing process started at 2001-06-25 15:30:00 PDT
+   ...  demand curve
+   ...  Market_1 clears 0.00 MW at $50.20/MW at 2001-06-25 15:30:00 PDT
+   ...Market_1 opens for clearing of market_id 7 at 2001-06-25 15:45:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $50.24/MW at 2001-06-25 15:30:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 15:45:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 50.24 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.00 MW at $77.00/MW at 2001-06-25 15:45:00 PDT
+   ...Market_1 opens for clearing of market_id 8 at 2001-06-25 16:00:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $76.51/MW at 2001-06-25 15:45:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 16:00:00 PDT
+   ...  demand curve
+   ...     0: 0√Ù asks 0.004 MW at 76.51 $/MW
+last message was repeated 1 times
+   ...  Market_1 clears 0.00 MW at $82.00/MW at 2001-06-25 16:00:00 PDT
+   ...Market_1 opens for clearing of market_id 9 at 2001-06-25 16:15:00 PDT
+   ...  Market_1 receives ask from object cool_control2 for 0.00 MW at $82.18/MW at 2001-06-25 16:00:00 PDT
+last message was repeated 1 times
+

@@ -1,0 +1,5 @@
+ERROR    [1999-12-31 16:00:00 PST] : Assert failed on climate:0: temperature 50 not within 1.000000 of given value 55
+ERROR    [1999-12-31 16:00:00 PST] : model commit failed
+ERROR    [1999-12-31 16:00:00 PST] : exec halted: commit failure
+FATAL    [1999-12-31 16:00:00 PST] : shutdown after simulation stopped prematurely
+FATAL    [1999-12-31 16:00:00 PST] : environment startup failed: Invalid argument

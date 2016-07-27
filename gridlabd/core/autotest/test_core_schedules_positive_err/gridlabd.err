@@ -1,0 +1,6 @@
+ERROR    [INIT] : schedule positive_schedule fails 'positive' validation in block * at schedule index 1
+ERROR    [INIT] : last error message was repeated 5 times
+ERROR    [INIT] : deferred creation of schedule 'positive_schedule' failed
+test_core_schedules_positive_err.glm(13): schedule 'positive_schedule' is not valid
+test_core_schedules_positive_err.glm(13): load failed at or near 'schedule pos...'
+FATAL    [INIT] : shutdown after command line rejected

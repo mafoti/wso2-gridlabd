@@ -1,0 +1,5 @@
+ERROR    [01-01-2001 00:00:00.009999990 PST] : delta_update(): update failed for object 'complex_assert:2'
+ERROR    [01-01-2001 00:00:00.009999990 PST] : delta_update() failed, deltamode operation cannot continue
+ERROR    [01-01-2001 00:00:00.009999990 PST] : exec halted: Deltamode simulation failure
+FATAL    [01-01-2001 00:00:00.009999990 PST] : shutdown after simulation stopped prematurely
+FATAL    [01-01-2001 00:00:00.009999990 PST] : environment startup failed: No such file or directory

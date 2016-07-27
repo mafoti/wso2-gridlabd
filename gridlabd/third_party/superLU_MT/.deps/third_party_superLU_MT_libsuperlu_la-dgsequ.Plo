@@ -1,0 +1,122 @@
+third_party/superLU_MT/third_party_superLU_MT_libsuperlu_la-dgsequ.lo: \
+ third_party/superLU_MT/dgsequ.c \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\math.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ third_party/superLU_MT/pdsp_defs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\errno.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\process.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\signal.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_signal.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\timeb.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_compat.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_unistd.h \
+ third_party/superLU_MT/slu_mt_machines.h \
+ third_party/superLU_MT/slu_mt_Cnames.h \
+ third_party/superLU_MT/supermatrix.h \
+ third_party/superLU_MT/slu_mt_util.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdio.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdio_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h \
+ third_party/superLU_MT/pxgstrf_synch.h
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\math.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h:
+
+third_party/superLU_MT/pdsp_defs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\errno.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\process.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\signal.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_signal.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\timeb.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_compat.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\pthread_unistd.h:
+
+third_party/superLU_MT/slu_mt_machines.h:
+
+third_party/superLU_MT/slu_mt_Cnames.h:
+
+third_party/superLU_MT/supermatrix.h:
+
+third_party/superLU_MT/slu_mt_util.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdio.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdio_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h:
+
+third_party/superLU_MT/pxgstrf_synch.h:

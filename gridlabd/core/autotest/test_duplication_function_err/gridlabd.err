@@ -1,0 +1,4 @@
+FATAL    [INIT] : unable to open '../test_exc_duplicate_function/mytest.cpp' for writing
+test_duplication_function_err.glm(11): load failed at or near 'class mytest...'
+ERROR    [INIT] : unable to load 'test_duplication_function_err.glm': No such file or directory
+FATAL    [INIT] : shutdown after command line rejected

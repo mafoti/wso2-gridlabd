@@ -1,0 +1,10 @@
+Reliability report for test_deltamode_random.glm
+Number of customers = 25
+
+1366 metrics based around 1-hour base (outage-hours)
+
+Events for year starting at 2000-01-01 00:00:00
+Annual Event #,Metric Interval Event #,Starting DateTime (YYYY-MM-DD hh:mm:ss),Ending DateTime (YYYY-MM-DD hh:mm:ss),Object type,Object Name,Inducing Object,"Protective" Device,Desired Fault type,Implemented Fault Type,Number customers affected,Secondary number of customers affected
+1,1,2000-01-01 00:00:31,2000-01-01 00:00:35,switch,sw_load834_834b,testgendev_rand,sw_load834_834b,SW-AC,SW-CA,-1,-1
+2,2,2000-01-01 00:01:30,2000-01-01 00:01:32,switch,sw_load834_834b,testgendev_rand,sw_load834_834b,SW-AC,SW-CA,-1,-1
+3,3,2000-01-01 00:02:06,2000-01-01 00:02:08,switch,sw_load834_834b,testgendev_rand,sw_load834_834b,SW-AC,SW-CA,-1,-1

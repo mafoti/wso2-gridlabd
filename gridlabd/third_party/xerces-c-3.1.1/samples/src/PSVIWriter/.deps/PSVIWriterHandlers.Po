@@ -1,0 +1,522 @@
+src/PSVIWriter/PSVIWriterHandlers.o: \
+ src/PSVIWriter/PSVIWriterHandlers.cpp \
+ src/PSVIWriter/PSVIWriterHandlers.hpp ../src/xercesc/sax2/Attributes.hpp \
+ ../src/xercesc/util/XercesDefs.hpp \
+ ../src/xercesc/util/Xerces_autoconf_config.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\wchar.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_stat64.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\wchar_s.h \
+ ../src/xercesc/util/XercesVersion.hpp \
+ ../src/xercesc/sax2/DefaultHandler.hpp \
+ ../src/xercesc/sax2/ContentHandler.hpp \
+ ../src/xercesc/sax2/LexicalHandler.hpp \
+ ../src/xercesc/sax2/DeclHandler.hpp ../src/xercesc/sax/DTDHandler.hpp \
+ ../src/xercesc/sax/EntityResolver.hpp \
+ ../src/xercesc/sax/ErrorHandler.hpp \
+ ../src/xercesc/sax/SAXParseException.hpp \
+ ../src/xercesc/sax/SAXException.hpp ../src/xercesc/util/XMLString.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.hpp \
+ ../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp \
+ ../src/xercesc/util/XMLException.hpp ../src/xercesc/util/XMemory.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h \
+ ../src/xercesc/util/XMLExceptMsgs.hpp ../src/xercesc/dom/DOMError.hpp \
+ ../src/xercesc/util/XMLUni.hpp \
+ ../src/xercesc/framework/XMLErrorReporter.hpp \
+ ../src/xercesc/util/XMLEnumerator.hpp \
+ ../src/xercesc/util/PlatformUtils.hpp \
+ ../src/xercesc/util/PanicHandler.hpp ../src/xercesc/util/XMLFileMgr.hpp \
+ ../src/xercesc/util/XMLMutexMgr.hpp \
+ ../src/xercesc/framework/MemoryManager.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.c \
+ ../src/xercesc/framework/XMLBuffer.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\assert.h \
+ ../src/xercesc/framework/psvi/XSConstants.hpp \
+ ../src/xercesc/util/RefVectorOf.hpp ../src/xercesc/util/RefVectorOf.c \
+ ../src/xercesc/util/RefArrayVectorOf.hpp \
+ ../src/xercesc/util/RefArrayVectorOf.c \
+ ../src/xercesc/framework/psvi/PSVIHandler.hpp \
+ ../src/xercesc/framework/psvi/PSVIAttribute.hpp \
+ ../src/xercesc/framework/psvi/PSVIItem.hpp \
+ ../src/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSTypeDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSObject.hpp \
+ ../src/xercesc/validators/datatype/DatatypeValidator.hpp \
+ ../src/xercesc/util/RefHashTableOf.hpp ../src/xercesc/util/Hashers.hpp \
+ ../src/xercesc/util/IllegalArgumentException.hpp \
+ ../src/xercesc/util/NoSuchElementException.hpp \
+ ../src/xercesc/util/RuntimeException.hpp \
+ ../src/xercesc/util/RefHashTableOf.c ../src/xercesc/util/Janitor.hpp \
+ ../src/xercesc/util/Janitor.c \
+ ../src/xercesc/util/NullPointerException.hpp \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\new \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\c++config.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\os_defines.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\cpu_defines.h \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\exception \
+ c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\bits\atomic_lockfree_defines.h \
+ ../src/xercesc/util/KVStringPair.hpp \
+ ../src/xercesc/internal/XSerializable.hpp \
+ ../src/xercesc/internal/XSerializeEngine.hpp \
+ ../src/xercesc/util/ValueVectorOf.hpp \
+ ../src/xercesc/util/ValueVectorOf.c \
+ ../src/xercesc/internal/XSerializationException.hpp \
+ ../src/xercesc/internal/XProtoType.hpp \
+ ../src/xercesc/util/XMLUniDefs.hpp \
+ ../src/xercesc/util/regx/RegularExpression.hpp \
+ ../src/xercesc/util/regx/Op.hpp \
+ ../src/xercesc/util/regx/TokenFactory.hpp \
+ ../src/xercesc/util/regx/Token.hpp ../src/xercesc/util/Mutexes.hpp \
+ ../src/xercesc/util/regx/BMPattern.hpp \
+ ../src/xercesc/util/regx/OpFactory.hpp \
+ ../src/xercesc/util/regx/RegxUtil.hpp \
+ ../src/xercesc/validators/schema/SchemaSymbols.hpp \
+ ../src/xercesc/framework/ValidationContext.hpp \
+ ../src/xercesc/util/NameIdPool.hpp ../src/xercesc/util/NameIdPool.c \
+ ../src/xercesc/framework/psvi/PSVIAttributeList.hpp \
+ ../src/xercesc/framework/psvi/PSVIElement.hpp \
+ ../src/xercesc/framework/psvi/XSAnnotation.hpp \
+ ../src/xercesc/framework/psvi/XSAttributeDeclaration.hpp \
+ ../src/xercesc/framework/psvi/XSAttributeGroupDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSAttributeUse.hpp \
+ ../src/xercesc/framework/psvi/XSComplexTypeDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSElementDeclaration.hpp \
+ ../src/xercesc/framework/psvi/XSNamedMap.hpp \
+ ../src/xercesc/util/RefHash2KeysTableOf.hpp \
+ ../src/xercesc/util/RefHash2KeysTableOf.c \
+ ../src/xercesc/framework/psvi/XSNamedMap.c \
+ ../src/xercesc/util/StringPool.hpp \
+ ../src/xercesc/framework/psvi/XSFacet.hpp \
+ ../src/xercesc/framework/psvi/XSIDCDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSModel.hpp \
+ ../src/xercesc/validators/schema/SchemaElementDecl.hpp \
+ ../src/xercesc/util/QName.hpp \
+ ../src/xercesc/validators/common/Grammar.hpp \
+ ../src/xercesc/framework/XMLElementDecl.hpp \
+ ../src/xercesc/framework/XMLAttr.hpp \
+ ../src/xercesc/framework/XMLAttDef.hpp \
+ ../src/xercesc/framework/XMLAttDefList.hpp \
+ ../src/xercesc/framework/XMLEntityDecl.hpp \
+ ../src/xercesc/framework/XMLNotationDecl.hpp \
+ ../src/xercesc/validators/schema/ComplexTypeInfo.hpp \
+ ../src/xercesc/framework/XMLContentModel.hpp \
+ ../src/xercesc/validators/schema/SchemaAttDef.hpp \
+ ../src/xercesc/validators/datatype/UnionDatatypeValidator.hpp \
+ ../src/xercesc/validators/schema/PSVIDefs.hpp \
+ ../src/xercesc/validators/schema/identity/IdentityConstraint.hpp \
+ ../src/xercesc/validators/schema/identity/IC_Field.hpp \
+ ../src/xercesc/validators/schema/identity/XPathMatcher.hpp \
+ ../src/xercesc/util/ValueStackOf.hpp \
+ ../src/xercesc/util/EmptyStackException.hpp \
+ ../src/xercesc/util/ValueStackOf.c \
+ ../src/xercesc/framework/psvi/XSModelGroup.hpp \
+ ../src/xercesc/framework/psvi/XSModelGroupDefinition.hpp \
+ ../src/xercesc/framework/psvi/XSMultiValueFacet.hpp \
+ ../src/xercesc/framework/psvi/XSNamespaceItem.hpp \
+ ../src/xercesc/framework/psvi/XSNotationDeclaration.hpp \
+ ../src/xercesc/framework/psvi/XSParticle.hpp \
+ ../src/xercesc/framework/psvi/XSWildcard.hpp \
+ ../src/xercesc/framework/XMLFormatter.hpp \
+ ../src/xercesc/framework/XMLDocumentHandler.hpp \
+ ../src/xercesc/dom/DOMElement.hpp ../src/xercesc/dom/DOMNode.hpp \
+ ../src/xercesc/dom/DOMNamedNodeMap.hpp \
+ ../src/xercesc/util/XMLEntityResolver.hpp \
+ ../src/xercesc/util/XMLResourceIdentifier.hpp \
+ ../src/xercesc/util/PSVIUni.hpp ../src/xercesc/dom/DOMAttr.hpp \
+ ../src/xercesc/dom/DOMDocument.hpp \
+ ../src/xercesc/dom/DOMDocumentRange.hpp \
+ ../src/xercesc/dom/DOMDocumentTraversal.hpp \
+ ../src/xercesc/dom/DOMNodeFilter.hpp \
+ ../src/xercesc/dom/DOMXPathEvaluator.hpp \
+ ../src/xercesc/dom/DOMXPathResult.hpp ../src/xercesc/dom/DOMNodeList.hpp \
+ ../src/xercesc/dom/DOMTypeInfo.hpp \
+ ../src/xercesc/dom/DOMImplementationRegistry.hpp \
+ ../src/xercesc/dom/DOMImplementation.hpp \
+ ../src/xercesc/dom/DOMImplementationLS.hpp \
+ ../src/xercesc/dom/DOMException.hpp \
+ ../src/xercesc/dom/DOMLSException.hpp \
+ ../src/xercesc/dom/DOMRangeException.hpp \
+ ../src/xercesc/framework/psvi/XSValue.hpp \
+ ../src/xercesc/util/ValueHashTableOf.hpp \
+ ../src/xercesc/util/ValueHashTableOf.c \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdio.h \
+ c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdio_s.h
+
+src/PSVIWriter/PSVIWriterHandlers.hpp:
+
+../src/xercesc/sax2/Attributes.hpp:
+
+../src/xercesc/util/XercesDefs.hpp:
+
+../src/xercesc/util/Xerces_autoconf_config.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\inttypes.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\crtdefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_mac.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_secapi.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\vadefs.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_directx.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdint.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stddef.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_push.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_print_pop.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sys\types.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_off_t.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\wchar.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\_mingw_stat64.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\swprintf.inl:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\wchar_s.h:
+
+../src/xercesc/util/XercesVersion.hpp:
+
+../src/xercesc/sax2/DefaultHandler.hpp:
+
+../src/xercesc/sax2/ContentHandler.hpp:
+
+../src/xercesc/sax2/LexicalHandler.hpp:
+
+../src/xercesc/sax2/DeclHandler.hpp:
+
+../src/xercesc/sax/DTDHandler.hpp:
+
+../src/xercesc/sax/EntityResolver.hpp:
+
+../src/xercesc/sax/ErrorHandler.hpp:
+
+../src/xercesc/sax/SAXParseException.hpp:
+
+../src/xercesc/sax/SAXException.hpp:
+
+../src/xercesc/util/XMLString.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.hpp:
+
+../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp:
+
+../src/xercesc/util/XMLException.hpp:
+
+../src/xercesc/util/XMemory.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdlib.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\lib64\gcc\x86_64-w64-mingw32\4.8.3\include-fixed\syslimits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\limits.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\malloc.h:
+
+../src/xercesc/util/XMLExceptMsgs.hpp:
+
+../src/xercesc/dom/DOMError.hpp:
+
+../src/xercesc/util/XMLUni.hpp:
+
+../src/xercesc/framework/XMLErrorReporter.hpp:
+
+../src/xercesc/util/XMLEnumerator.hpp:
+
+../src/xercesc/util/PlatformUtils.hpp:
+
+../src/xercesc/util/PanicHandler.hpp:
+
+../src/xercesc/util/XMLFileMgr.hpp:
+
+../src/xercesc/util/XMLMutexMgr.hpp:
+
+../src/xercesc/framework/MemoryManager.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.c:
+
+../src/xercesc/framework/XMLBuffer.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\string.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\string_s.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\assert.h:
+
+../src/xercesc/framework/psvi/XSConstants.hpp:
+
+../src/xercesc/util/RefVectorOf.hpp:
+
+../src/xercesc/util/RefVectorOf.c:
+
+../src/xercesc/util/RefArrayVectorOf.hpp:
+
+../src/xercesc/util/RefArrayVectorOf.c:
+
+../src/xercesc/framework/psvi/PSVIHandler.hpp:
+
+../src/xercesc/framework/psvi/PSVIAttribute.hpp:
+
+../src/xercesc/framework/psvi/PSVIItem.hpp:
+
+../src/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSTypeDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSObject.hpp:
+
+../src/xercesc/validators/datatype/DatatypeValidator.hpp:
+
+../src/xercesc/util/RefHashTableOf.hpp:
+
+../src/xercesc/util/Hashers.hpp:
+
+../src/xercesc/util/IllegalArgumentException.hpp:
+
+../src/xercesc/util/NoSuchElementException.hpp:
+
+../src/xercesc/util/RuntimeException.hpp:
+
+../src/xercesc/util/RefHashTableOf.c:
+
+../src/xercesc/util/Janitor.hpp:
+
+../src/xercesc/util/Janitor.c:
+
+../src/xercesc/util/NullPointerException.hpp:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\new:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\c++config.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\os_defines.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\x86_64-w64-mingw32\bits\cpu_defines.h:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\exception:
+
+c:\mingw\msys\1.0\opt\windows_64\include\c++\4.8.3\bits\atomic_lockfree_defines.h:
+
+../src/xercesc/util/KVStringPair.hpp:
+
+../src/xercesc/internal/XSerializable.hpp:
+
+../src/xercesc/internal/XSerializeEngine.hpp:
+
+../src/xercesc/util/ValueVectorOf.hpp:
+
+../src/xercesc/util/ValueVectorOf.c:
+
+../src/xercesc/internal/XSerializationException.hpp:
+
+../src/xercesc/internal/XProtoType.hpp:
+
+../src/xercesc/util/XMLUniDefs.hpp:
+
+../src/xercesc/util/regx/RegularExpression.hpp:
+
+../src/xercesc/util/regx/Op.hpp:
+
+../src/xercesc/util/regx/TokenFactory.hpp:
+
+../src/xercesc/util/regx/Token.hpp:
+
+../src/xercesc/util/Mutexes.hpp:
+
+../src/xercesc/util/regx/BMPattern.hpp:
+
+../src/xercesc/util/regx/OpFactory.hpp:
+
+../src/xercesc/util/regx/RegxUtil.hpp:
+
+../src/xercesc/validators/schema/SchemaSymbols.hpp:
+
+../src/xercesc/framework/ValidationContext.hpp:
+
+../src/xercesc/util/NameIdPool.hpp:
+
+../src/xercesc/util/NameIdPool.c:
+
+../src/xercesc/framework/psvi/PSVIAttributeList.hpp:
+
+../src/xercesc/framework/psvi/PSVIElement.hpp:
+
+../src/xercesc/framework/psvi/XSAnnotation.hpp:
+
+../src/xercesc/framework/psvi/XSAttributeDeclaration.hpp:
+
+../src/xercesc/framework/psvi/XSAttributeGroupDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSAttributeUse.hpp:
+
+../src/xercesc/framework/psvi/XSComplexTypeDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSElementDeclaration.hpp:
+
+../src/xercesc/framework/psvi/XSNamedMap.hpp:
+
+../src/xercesc/util/RefHash2KeysTableOf.hpp:
+
+../src/xercesc/util/RefHash2KeysTableOf.c:
+
+../src/xercesc/framework/psvi/XSNamedMap.c:
+
+../src/xercesc/util/StringPool.hpp:
+
+../src/xercesc/framework/psvi/XSFacet.hpp:
+
+../src/xercesc/framework/psvi/XSIDCDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSModel.hpp:
+
+../src/xercesc/validators/schema/SchemaElementDecl.hpp:
+
+../src/xercesc/util/QName.hpp:
+
+../src/xercesc/validators/common/Grammar.hpp:
+
+../src/xercesc/framework/XMLElementDecl.hpp:
+
+../src/xercesc/framework/XMLAttr.hpp:
+
+../src/xercesc/framework/XMLAttDef.hpp:
+
+../src/xercesc/framework/XMLAttDefList.hpp:
+
+../src/xercesc/framework/XMLEntityDecl.hpp:
+
+../src/xercesc/framework/XMLNotationDecl.hpp:
+
+../src/xercesc/validators/schema/ComplexTypeInfo.hpp:
+
+../src/xercesc/framework/XMLContentModel.hpp:
+
+../src/xercesc/validators/schema/SchemaAttDef.hpp:
+
+../src/xercesc/validators/datatype/UnionDatatypeValidator.hpp:
+
+../src/xercesc/validators/schema/PSVIDefs.hpp:
+
+../src/xercesc/validators/schema/identity/IdentityConstraint.hpp:
+
+../src/xercesc/validators/schema/identity/IC_Field.hpp:
+
+../src/xercesc/validators/schema/identity/XPathMatcher.hpp:
+
+../src/xercesc/util/ValueStackOf.hpp:
+
+../src/xercesc/util/EmptyStackException.hpp:
+
+../src/xercesc/util/ValueStackOf.c:
+
+../src/xercesc/framework/psvi/XSModelGroup.hpp:
+
+../src/xercesc/framework/psvi/XSModelGroupDefinition.hpp:
+
+../src/xercesc/framework/psvi/XSMultiValueFacet.hpp:
+
+../src/xercesc/framework/psvi/XSNamespaceItem.hpp:
+
+../src/xercesc/framework/psvi/XSNotationDeclaration.hpp:
+
+../src/xercesc/framework/psvi/XSParticle.hpp:
+
+../src/xercesc/framework/psvi/XSWildcard.hpp:
+
+../src/xercesc/framework/XMLFormatter.hpp:
+
+../src/xercesc/framework/XMLDocumentHandler.hpp:
+
+../src/xercesc/dom/DOMElement.hpp:
+
+../src/xercesc/dom/DOMNode.hpp:
+
+../src/xercesc/dom/DOMNamedNodeMap.hpp:
+
+../src/xercesc/util/XMLEntityResolver.hpp:
+
+../src/xercesc/util/XMLResourceIdentifier.hpp:
+
+../src/xercesc/util/PSVIUni.hpp:
+
+../src/xercesc/dom/DOMAttr.hpp:
+
+../src/xercesc/dom/DOMDocument.hpp:
+
+../src/xercesc/dom/DOMDocumentRange.hpp:
+
+../src/xercesc/dom/DOMDocumentTraversal.hpp:
+
+../src/xercesc/dom/DOMNodeFilter.hpp:
+
+../src/xercesc/dom/DOMXPathEvaluator.hpp:
+
+../src/xercesc/dom/DOMXPathResult.hpp:
+
+../src/xercesc/dom/DOMNodeList.hpp:
+
+../src/xercesc/dom/DOMTypeInfo.hpp:
+
+../src/xercesc/dom/DOMImplementationRegistry.hpp:
+
+../src/xercesc/dom/DOMImplementation.hpp:
+
+../src/xercesc/dom/DOMImplementationLS.hpp:
+
+../src/xercesc/dom/DOMException.hpp:
+
+../src/xercesc/dom/DOMLSException.hpp:
+
+../src/xercesc/dom/DOMRangeException.hpp:
+
+../src/xercesc/framework/psvi/XSValue.hpp:
+
+../src/xercesc/util/ValueHashTableOf.hpp:
+
+../src/xercesc/util/ValueHashTableOf.c:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\stdio.h:
+
+c:\mingw\msys\1.0\opt\windows_64\x86_64-w64-mingw32\include\sec_api\stdio_s.h:

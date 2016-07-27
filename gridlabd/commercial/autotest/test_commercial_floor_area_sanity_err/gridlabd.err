@@ -1,0 +1,5 @@
+ERROR    [INIT] : init_office(obj=0;unnamed): floor area is not valid
+ERROR    [INIT] : init_by_deferral(): object office:0 initialization failed
+ERROR    [INIT] : model initialization failed
+FATAL    [INIT] : shutdown after simulation stopped prematurely
+FATAL    [INIT] : environment startup failed: Invalid argument

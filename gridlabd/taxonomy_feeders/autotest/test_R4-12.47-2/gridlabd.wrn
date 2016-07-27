@@ -1,0 +1,467 @@
+WARNING  [INIT] : C:\gridlabd\install64\share\gridlabd\tzinfo.txt(169): timezone spec 'EST8EDT' not found in 'tzinfo.txt', will include no DST information
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_1 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_2 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_3 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_4 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_5 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_6 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_7 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_8 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_9 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_10 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_11 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_12 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_13 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_14 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_15 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_16 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_17 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_18 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_19 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_20 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_21 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_22 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_23 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_24 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_25 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_26 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_27 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : Fuse:R4-12-47-2_fuse_28 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 101.03% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 120.28% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 101.03% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 128.30% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.68% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.69% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.40% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.54% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.51% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 20 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R4-12-47-2_tl_125 is at 103.81% of its continuous rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R4-12-47-2_tl_113 is at 123.86% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 4 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R4-12-47-2_tl_110 is at 103.52% of its continuous rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R4-12-47-2_tl_138 is at 131.66% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 20 times

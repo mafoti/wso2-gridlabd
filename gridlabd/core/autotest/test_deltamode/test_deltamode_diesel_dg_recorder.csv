@@ -1,0 +1,13 @@
+# file...... test_deltamode_diesel_dg_recorder.csv
+# date...... Thu Jul 07 15:43:35 2016
+# user...... gridlabd
+# host...... (null)
+# target.... meter 0
+# trigger... (none)
+# interval.. -1
+# limit..... 0
+# timestamp,voltage_A,voltage_B,voltage_C
+01-01-2001 00:00:00 PST,+240+0d,+240-120d,+240+120d
+01-01-2001 00:00:01.000000 PST,+240+0d,+240-120d,+240+120d
+01-01-2001 00:00:01.100000 PST,+180+0d,+240-120d,+240+120d
+01-01-2001 00:00:30 PST,+210+0d,+240-120d,+240+120d

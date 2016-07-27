@@ -1,0 +1,177 @@
+WARNING  [INIT] : eventgen:testgendev_rand - minimum_timestep set - all events at least 1 minimum step long
+WARNING  [INIT] : Maximum outage for testgendev_rand was above global max - restricted to global max
+WARNING  [INIT] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [INIT] : last warning message was repeated 4 times
+WARNING  [INIT] : event_gen:testgendev_rand has the ability to generate more than 1 simultaneous fault - metrics may not be accurate
+WARNING  [2000-01-01 00:00:00 PST] : Restoration object not detected!
+WARNING  [2000-01-01 04:05:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 04:05:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 04:05:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 04:06:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 04:19:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 04:19:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 04:19:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 04:20:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 04:46:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 04:46:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 04:46:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 04:54:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 04:59:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 04:59:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 04:59:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 05:07:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 05:15:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 05:15:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 05:15:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 05:23:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 05:49:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 05:49:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 05:49:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 05:50:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 05:53:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 05:53:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 05:53:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 05:54:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 07:40:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 07:40:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 07:40:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 07:41:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 07:46:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 07:46:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 07:46:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 07:47:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 08:32:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 08:32:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 08:32:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 08:33:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 08:44:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 08:44:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 08:44:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 08:45:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 08:53:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 08:53:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 08:53:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 08:54:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 09:35:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 09:35:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 09:35:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 09:36:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 09:43:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 09:43:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 09:43:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 09:51:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 09:51:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 09:51:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 09:51:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 09:51:00 PST] : Afflicted object count went negative - using after fault count
+WARNING  [2000-01-01 09:52:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 10:12:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:12:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:12:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 10:13:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:13:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:13:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 10:20:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 10:20:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 10:21:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 10:42:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:42:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:42:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 10:43:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 10:44:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:44:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 10:44:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 10:44:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 10:45:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 12:15:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 12:15:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 12:15:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 12:16:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 12:55:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 12:55:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 12:55:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 12:56:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 13:01:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 13:01:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 13:01:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 13:09:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 13:32:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 13:32:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 13:32:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 13:33:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 13:57:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 13:57:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 13:57:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 14:05:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 14:43:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 14:43:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 14:43:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 14:44:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 14:50:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 14:50:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 14:50:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 14:58:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 14:59:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 14:59:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 14:59:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 15:00:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 15:46:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 15:46:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 15:46:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 15:47:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 16:32:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 16:32:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 16:32:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 16:33:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 17:41:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 17:41:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 17:41:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 17:49:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 17:51:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 17:51:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 17:51:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 17:52:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 18:06:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 18:06:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 18:06:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 18:14:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 18:40:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 18:40:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 18:40:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 18:48:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 20:18:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 20:18:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 20:18:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 20:26:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 20:35:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 20:35:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 20:35:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 20:43:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 20:49:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 20:49:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 20:49:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 20:57:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 21:38:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 21:38:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 21:38:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 21:39:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 21:50:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 21:50:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 21:50:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 21:51:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 22:28:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 22:28:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 22:28:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 22:36:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 22:41:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 22:41:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 22:41:00 PST] : Unsupported phase on node load834
+WARNING  [2000-01-01 22:42:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 22:59:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 22:59:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 22:59:00 PST] : Unsupported phase on node node703b
+WARNING  [2000-01-01 23:07:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep
+WARNING  [2000-01-01 23:38:00 PST] : regulators are neglected from the fault calculation
+WARNING  [2000-01-01 23:38:00 PST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 23:38:00 PST] : Unsupported phase on node node711
+WARNING  [2000-01-01 23:39:00 PST] : Outage length is less than the minimum timestep of 60 seconds, rounded to minimum timestep

@@ -1,0 +1,5 @@
+WARNING  [INIT] : C:\gridlabd\install64\share\gridlabd\tzinfo.txt(169): timezone spec 'EST8EDT' not found in 'tzinfo.txt', will include no DST information
+WARNING  [INIT] : Fuse:R1-12-47-2_fuse_1 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 83 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R1-12-47-2_tl_104 is at 146.19% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 805 times

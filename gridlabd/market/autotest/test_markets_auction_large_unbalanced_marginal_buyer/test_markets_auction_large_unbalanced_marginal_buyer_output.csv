@@ -1,0 +1,15 @@
+# file...... test_markets_auction_large_unbalanced_marginal_buyer_output.csv
+# date...... Thu Jul 07 15:44:49 2016
+# user...... gridlabd
+# host...... (null)
+# target.... auction 0
+# trigger... (none)
+# interval.. 3600
+# limit..... 168
+# timestamp,current_market.clearing_price,current_market.clearing_quantity,current_price_mean_24h,current_price_stdev_24h,current_market.clearing_type,current_market.marginal_quantity
+2001-01-01 00:00:00 PST,+51,+0,+51,+1e-006,NULL,+0
+2001-01-01 01:00:00 PST,+51,+50,+51,+1e-006,MARGINAL_BUYER,+1
+2001-01-01 02:00:00 PST,+51,+50,+51,+1e-006,MARGINAL_BUYER,+1
+2001-01-01 03:00:00 PST,+51,+50,+51,+1e-006,MARGINAL_BUYER,+1
+2001-01-01 04:00:00 PST,+51,+50,+51,+1e-006,MARGINAL_BUYER,+1
+2001-01-01 05:00:00 PST,+51,+50,+51,+1e-006,MARGINAL_BUYER,+1

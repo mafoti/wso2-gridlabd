@@ -1,0 +1,6 @@
+ERROR    [2001-01-01 00:00:00 PST] : could not convert units from kW to MWh, mismatched constant values
+ERROR    [2001-01-01 00:00:00 PST] : unable to convert bid units from 'kW' to 'MWh'
+ERROR    [2001-01-01 00:00:00 PST] : 2001-01-01 00:00:00 PST: object buyer stopped its clock (exec)!
+ERROR    [2001-01-01 00:00:00 PST] : exec halted: synchronization failed
+FATAL    [2001-01-01 00:00:00 PST] : shutdown after simulation stopped prematurely
+FATAL    [2001-01-01 00:00:00 PST] : environment startup failed: Invalid argument

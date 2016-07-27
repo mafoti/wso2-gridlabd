@@ -1,0 +1,4 @@
+WARNING  [INIT] : explicit microwave model is experimental
+WARNING  [INIT] : house_e:0 has no parent triplex_meter defined; using static voltages
+WARNING  [INIT] : microwave installed power is smaller than traditional microwave ovens
+WARNING  [INIT] : standby power exceeds installed power, resetting to 1% of installed power

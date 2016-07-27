@@ -1,0 +1,3 @@
+WARNING  [2000-01-01 00:00:00 EST] : transformer:(null) is at 113.70% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:(null) is at 104.19% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:(null) is at 100.70% of its continuous rating on phase C!

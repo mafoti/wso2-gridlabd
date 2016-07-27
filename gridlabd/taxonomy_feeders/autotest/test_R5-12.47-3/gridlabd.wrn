@@ -1,0 +1,545 @@
+WARNING  [INIT] : C:\gridlabd\install64\share\gridlabd\tzinfo.txt(169): timezone spec 'EST8EDT' not found in 'tzinfo.txt', will include no DST information
+WARNING  [INIT] : Fuses only work for the attached node in the FBS solver, not any deeper.
+WARNING  [INIT] : last warning message was repeated 181 times
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 29 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 110.10% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 182.45% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 161.30% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_7 is at 102.04% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 6 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 220.22% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 121.47% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 227.08% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 185.95% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.50% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 11 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 268.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 121.17% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 240.57% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 190.17% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.42% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 284.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 121.02% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 243.92% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.40% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.41% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 287.35% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.80% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 245.98% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.35% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.34% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 289.67% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.83% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 246.49% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.16% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.36% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.20% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 246.84% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.11% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.34% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.58% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.80% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 246.92% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.07% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.67% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 246.98% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.06% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.80% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 246.99% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.06% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.75% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.00% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-12-47-3_ol_1174 is at 247.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-12-47-3_ol_1174 is at 189.05% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:30 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:00:30 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:00:30 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 120.79% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 231.01% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.67% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 102.93% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 12 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 290.76% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.05% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 220.28% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 183.82% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.32% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 12 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 281.68% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.12% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 217.50% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.22% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.31% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 278.91% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.27% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.94% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.46% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 277.31% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.27% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.51% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.59% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.85% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.28% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.65% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.61% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.21% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.68% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.17% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.69% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.49% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.16% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.69% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.48% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.16% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.69% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.48% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.48% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:01:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:01:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:01:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:02:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:02:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:02:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:03:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:03:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:03:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:04:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:04:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:04:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:05:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:05:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:05:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:06:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:06:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:06:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:07:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:07:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:07:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:08:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:08:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:08:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:09:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:09:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:09:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:10:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:10:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:10:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:11:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:11:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:11:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:12:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:12:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:12:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:13:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:13:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:13:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:14:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:14:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:14:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:15:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:15:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:15:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:16:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:16:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:16:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:17:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:17:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:17:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:18:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:18:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:18:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:19:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:19:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:19:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:20:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:20:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:20:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:21:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:21:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:21:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:22:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:22:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:22:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:23:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:23:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:23:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:24:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:24:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:24:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:25:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:25:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:25:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:26:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:26:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:26:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:27:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:27:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:27:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:28:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:28:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:28:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:29:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:29:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:29:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:30:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:30:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:30:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:31:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:31:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:31:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:32:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:32:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:32:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:33:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:33:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:33:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:34:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:34:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:34:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:35:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:35:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:35:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:36:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:36:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:36:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:37:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:37:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:37:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:38:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:38:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:38:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:39:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:39:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:39:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:40:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:40:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:40:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:41:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:41:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:41:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:42:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:42:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:42:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:43:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:43:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:43:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:44:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:44:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:44:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:45:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:45:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:45:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:46:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:46:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:46:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:47:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:47:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:47:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:48:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:48:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:48:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:49:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:49:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:49:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:50:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:50:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:50:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:51:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:51:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:51:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:52:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:52:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:52:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:53:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:53:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:53:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:54:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:54:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:54:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:55:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:55:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:55:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:56:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:56:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:56:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:57:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:57:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:57:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:58:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:58:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:58:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:59:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 00:59:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 00:59:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 122.29% of its continuous rating on phase A!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 215.15% of its continuous rating on phase B!
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-12-47-3_ol_1174 is at 184.70% of its continuous rating on phase C!
+WARNING  [2000-01-01 01:00:00 EST] : transformer:R5-12-47-3_xfmr_48 is at 103.35% of its rated power value
+WARNING  [2000-01-01 01:00:00 EST] : last warning message was repeated 13 times
+WARNING  [2000-01-01 01:00:00 EST] : Line:R5-12-47-3_tl_1152 is at 276.47% of its emergency rating on phase 1!

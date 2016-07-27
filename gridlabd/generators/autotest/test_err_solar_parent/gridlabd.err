@@ -1,0 +1,5 @@
+ERROR    [INIT] : init_solar(obj=8;sol_inv_B_2_645): Solar panel can only have an inverter as its parent.
+ERROR    [INIT] : init_by_deferral(): object sol_inv_B_2_645 initialization failed
+ERROR    [INIT] : model initialization failed
+FATAL    [INIT] : shutdown after simulation stopped prematurely
+FATAL    [INIT] : environment startup failed: Invalid argument

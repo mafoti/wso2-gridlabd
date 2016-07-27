@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="http://www.gridlabd.org/gridlabd-4_0.xsl" type="text/xsl"?>
+<gridlabd>
+	<version.major>4</version.major>
+	<version.minor>0</version.minor>
+	<version.patch>0</version.patch>
+	<version.build>5487</version.build>
+	<version.branch>trunk</version.branch>
+	<command_line>"C:\gridlabd\install64\bin\gridlabd.exe -W C:\gridlabd/market/autotest/test_unitless_bid_quantity_err --redirect all test_unitless_bid_quantity_err.glm"</command_line>
+	<environment>batch</environment>
+	<quiet>FALSE</quiet>
+	<warn>TRUE</warn>
+	<debugger>FALSE</debugger>
+	<gdb>FALSE</gdb>
+	<debug>FALSE</debug>
+	<test>FALSE</test>
+	<verbose>FALSE</verbose>
+	<iteration_limit>100</iteration_limit>
+	<workdir>C:\gridlabd\market\autotest\test_unitless_bid_quantity_err</workdir>
+	<dumpfile>gridlabd.xml</dumpfile>
+	<savefile>""</savefile>
+	<dumpall>FALSE</dumpall>
+	<runchecks>FALSE</runchecks>
+	<threadcount>1</threadcount>
+	<profiler>FALSE</profiler>
+	<pauseatexit>FALSE</pauseatexit>
+	<testoutputfile>test.txt</testoutputfile>
+	<xml_encoding>8</xml_encoding>
+	<clock>2001-01-01 00:00:00 PST</clock>
+	<starttime>2001-01-01 00:00:00 PST</starttime>
+	<stoptime>2001-01-03 00:00:00 PST</stoptime>
+	<double_format>%+lg</double_format>
+	<complex_format>%+lg%+lg%c</complex_format>
+	<object_format>%s:%d</object_format>
+	<object_scan>%[^:]:%d</object_scan>
+	<object_tree_balance>FALSE</object_tree_balance>
+	<kmlfile>""</kmlfile>
+	<modelname>test_unitless_bid_quantity_err.glm</modelname>
+	<execdir>C:\gridlabd\install64\bin</execdir>
+	<strictnames>TRUE</strictnames>
+	<website>http://www.gridlabd.org/</website>
+	<urlbase>http://www.gridlabd.org/</urlbase>
+	<randomseed>-1474969848</randomseed>
+	<include>""</include>
+	<trace>""</trace>
+	<gdb_window>FALSE</gdb_window>
+	<tmp>../test_unitless_bid_quantity_err</tmp>
+	<force_compile>0</force_compile>
+	<nolocks>FALSE</nolocks>
+	<skipsafe>FALSE</skipsafe>
+	<dateformat>ISO</dateformat>
+	<init_sequence>DEFERRED</init_sequence>
+	<minimum_timestep>1</minimum_timestep>
+	<platform>WINDOWS</platform>
+	<suppress_repeat_messages>TRUE</suppress_repeat_messages>
+	<maximum_synctime>60</maximum_synctime>
+	<run_realtime>FALSE</run_realtime>
+	<enter_realtime>NEVER</enter_realtime>
+	<no_deprecate>TRUE</no_deprecate>
+	<streaming_io>FALSE</streaming_io>
+	<compileonly>FALSE</compileonly>
+	<relax_naming_rules>FALSE</relax_naming_rules>
+	<browser>iexplore</browser>
+	<server_portnum>6267</server_portnum>
+	<server_quit_on_close>FALSE</server_quit_on_close>
+	<autoclean>TRUE</autoclean>
+	<technology_readiness_level>QUALIFIED</technology_readiness_level>
+	<show_progress>TRUE</show_progress>
+	<checkpoint_type>NONE</checkpoint_type>
+	<checkpoint_file>""</checkpoint_file>
+	<checkpoint_seqnum>0</checkpoint_seqnum>
+	<checkpoint_interval>0</checkpoint_interval>
+	<checkpoint_keepall>FALSE</checkpoint_keepall>
+	<check_version>FALSE</check_version>
+	<random_number_generator>RNG3</random_number_generator>
+	<mainloop_state>INIT</mainloop_state>
+	<pauseat>NEVER</pauseat>
+	<infourl>http://gridlab-d.sourceforge.net/info.php?title=Special:Search/</infourl>
+	<hostname>localhost</hostname>
+	<hostaddr>127.0.0.1</hostaddr>
+	<autostart_gui>TRUE</autostart_gui>
+	<master>""</master>
+	<master_port>0</master_port>
+	<multirun_mode>STANDALONE</multirun_mode>
+	<multirun_conn>NONE</multirun_conn>
+	<signal_timeout>5000</signal_timeout>
+	<slave_port>6267</slave_port>
+	<slave_id>0</slave_id>
+	<return_code>0</return_code>
+	<exit_code>0</exit_code>
+	<module_compiler_flags>NONE</module_compiler_flags>
+	<init_max_defer>64</init_max_defer>
+	<mt_analysis>FALSE</mt_analysis>
+	<inline_block_size>1048576</inline_block_size>
+	<validate>TSTD|RALL</validate>
+	<sanitize>NAMES|POSITIONS</sanitize>
+	<sanitize_prefix>GLD_</sanitize_prefix>
+	<sanitize_index>.txt</sanitize_index>
+	<sanitize_offset>""</sanitize_offset>
+	<simulation_mode>EVENT</simulation_mode>
+	<deltamode_timestep>10000000</deltamode_timestep>
+	<deltamode_maximumtime>3600000000000</deltamode_maximumtime>
+	<deltaclock>0</deltaclock>
+	<delta_current_clock>+0</delta_current_clock>
+	<deltamode_updateorder>""</deltamode_updateorder>
+	<deltamode_iteration_limit>10</deltamode_iteration_limit>
+	<run_powerworld>FALSE</run_powerworld>
+	<exename>C:\gridlabd\install64\bin\gridlabd.exe</exename>
+	<timezone>PST8PDT</timezone>
+	<sync-order>
+		<pass>
+			<name>pretopdown</name>
+			<rank>
+				<ordinal>1</ordinal>
+				<object>
+					<name>Market</name>
+					<id>0</id>
+				</object>
+				<object>
+					<name>house1</name>
+					<id>1</id>
+				</object>
+			</rank>
+			<rank>
+				<ordinal>0</ordinal>
+				<object>
+					<name>buyer</name>
+					<id>2</id>
+				</object>
+			</rank>
+		</pass>
+		<pass>
+			<name>bottomup</name>
+			<rank>
+				<ordinal>0</ordinal>
+				<object>
+					<name>buyer</name>
+					<id>2</id>
+				</object>
+			</rank>
+			<rank>
+				<ordinal>1</ordinal>
+				<object>
+					<name>house1</name>
+					<id>1</id>
+				</object>
+			</rank>
+		</pass>
+		<pass>
+			<name>posttopdown</name>
+			<rank>
+				<ordinal>1</ordinal>
+				<object>
+					<name>Market</name>
+					<id>0</id>
+				</object>
+				<object>
+					<name>house1</name>
+					<id>1</id>
+				</object>
+			</rank>
+			<rank>
+				<ordinal>0</ordinal>
+				<object>
+					<name>buyer</name>
+					<id>2</id>
+				</object>
+			</rank>
+		</pass>
+	</sync-order>
+	<market>
+		<version.major>4</version.major>
+		<version.minor>0</version.minor>
+		<auction_list>
+			<auction>
+				<id>0</id>
+				<rank>1</rank>
+				<out_svc>NEVER</out_svc>
+				<clock>2001-01-01 00:00:00 PST</clock>
+				<name>Market</name>
+				<unit>MWh</unit>
+				<period>+3600 s</period>
+				<latency>+0 s</latency>
+				<market_id>1</market_id>
+				<verbose>TRUE</verbose>
+				<pricecap>+9999</pricecap>
+				<price_cap>+9999</price_cap>
+				<special_mode>BUYERS_ONLY</special_mode>
+				<statistic_mode>ON</statistic_mode>
+				<fixed_price>+12</fixed_price>
+				<fixed_quantity>+0</fixed_quantity>
+				<capacity_reference_property>""</capacity_reference_property>
+				<capacity_reference_bid_price>+0</capacity_reference_bid_price>
+				<max_capacity_reference_bid_quantity>+0</max_capacity_reference_bid_quantity>
+				<capacity_reference_bid_quantity>+0</capacity_reference_bid_quantity>
+				<init_price>+10</init_price>
+				<init_stdev>+0</init_stdev>
+				<future_mean_price>+0</future_mean_price>
+				<use_future_mean_price>FALSE</use_future_mean_price>
+				<current_market.start_time>INIT</current_market.start_time>
+				<current_market.end_time>INIT</current_market.end_time>
+				<current_market.clearing_price>+10 $</current_market.clearing_price>
+				<current_market.clearing_quantity>+0</current_market.clearing_quantity>
+				<current_market.clearing_type>NULL</current_market.clearing_type>
+				<current_market.marginal_quantity_load>+0</current_market.marginal_quantity_load>
+				<current_market.marginal_quantity>+0</current_market.marginal_quantity>
+				<current_market.marginal_quantity_bid>+0</current_market.marginal_quantity_bid>
+				<current_market.marginal_quantity_frac>+0</current_market.marginal_quantity_frac>
+				<current_market.seller_total_quantity>+0</current_market.seller_total_quantity>
+				<current_market.buyer_total_quantity>+0</current_market.buyer_total_quantity>
+				<current_market.seller_min_price>+0</current_market.seller_min_price>
+				<current_market.buyer_total_unrep>+0</current_market.buyer_total_unrep>
+				<current_market.cap_ref_unrep>+0</current_market.cap_ref_unrep>
+				<next_market.start_time>INIT</next_market.start_time>
+				<next_market.end_time>INIT</next_market.end_time>
+				<next_market.clearing_price>+0 $</next_market.clearing_price>
+				<next_market.clearing_quantity>+0</next_market.clearing_quantity>
+				<next_market.clearing_type>NULL</next_market.clearing_type>
+				<next_market.marginal_quantity_load>+0</next_market.marginal_quantity_load>
+				<next_market.marginal_quantity_bid>+0</next_market.marginal_quantity_bid>
+				<next_market.marginal_quantity_frac>+0</next_market.marginal_quantity_frac>
+				<next_market.seller_total_quantity>+0</next_market.seller_total_quantity>
+				<next_market.buyer_total_quantity>+0</next_market.buyer_total_quantity>
+				<next_market.seller_min_price>+0</next_market.seller_min_price>
+				<next_market.cap_ref_unrep>+0</next_market.cap_ref_unrep>
+				<past_market.start_time>INIT</past_market.start_time>
+				<past_market.end_time>INIT</past_market.end_time>
+				<past_market.clearing_price>+10 $</past_market.clearing_price>
+				<past_market.clearing_quantity>+0</past_market.clearing_quantity>
+				<past_market.clearing_type>NULL</past_market.clearing_type>
+				<past_market.marginal_quantity_load>+0</past_market.marginal_quantity_load>
+				<past_market.marginal_quantity_bid>+0</past_market.marginal_quantity_bid>
+				<past_market.marginal_quantity_frac>+0</past_market.marginal_quantity_frac>
+				<past_market.seller_total_quantity>+0</past_market.seller_total_quantity>
+				<past_market.buyer_total_quantity>+0</past_market.buyer_total_quantity>
+				<past_market.seller_min_price>+0</past_market.seller_min_price>
+				<past_market.cap_ref_unrep>+0</past_market.cap_ref_unrep>
+				<margin_mode>NORMAL</margin_mode>
+				<warmup>0</warmup>
+				<ignore_failed_market>FALSE</ignore_failed_market>
+				<ignore_pricecap>FALSE</ignore_pricecap>
+				<transaction_log_file>""</transaction_log_file>
+				<transaction_log_limit>0</transaction_log_limit>
+				<curve_log_file>""</curve_log_file>
+				<curve_log_limit>0</curve_log_limit>
+				<curve_log_info>NORMAL</curve_log_info>
+				<current_price_mean_2h>+10</current_price_mean_2h>
+				<current_price_stdev_2h>+0</current_price_stdev_2h>
+			</auction>
+		</auction_list>
+		<controller_list>
+			<controller>
+				<id>2</id>
+				<rank>0</rank>
+				<out_svc>NEVER</out_svc>
+				<parent>house1</parent>
+				<clock>2001-01-01 00:00:00 PST</clock>
+				<name>buyer</name>
+				<simple_mode>NONE</simple_mode>
+				<bid_mode>ON</bid_mode>
+				<use_override>OFF</use_override>
+				<ramp_low>+2 degF</ramp_low>
+				<ramp_high>+2 degF</ramp_high>
+				<range_low>-2</range_low>
+				<range_high>+5</range_high>
+				<target>air_temperature</target>
+				<setpoint>cooling_setpoint</setpoint>
+				<demand>cooling_demand</demand>
+				<load>hvac_load</load>
+				<total>total_load</total>
+				<market>Market</market>
+				<state>power_state</state>
+				<avg_target>current_price_mean_2h</avg_target>
+				<std_target>current_price_stdev_2h</std_target>
+				<bid_price>+10</bid_price>
+				<bid_quantity>+3.02409</bid_quantity>
+				<set_temp>+70 degF</set_temp>
+				<base_setpoint>+70 degF</base_setpoint>
+				<market_price>+10</market_price>
+				<period>+300 s</period>
+				<control_mode>RAMP</control_mode>
+				<resolve_mode>DEADBAND</resolve_mode>
+				<slider_setting>+1</slider_setting>
+				<slider_setting_heat>-0.001</slider_setting_heat>
+				<slider_setting_cool>-0.001</slider_setting_cool>
+				<override>""</override>
+				<heating_range_high>+3 degF</heating_range_high>
+				<heating_range_low>-5 degF</heating_range_low>
+				<heating_ramp_high>+0</heating_ramp_high>
+				<heating_ramp_low>+0</heating_ramp_low>
+				<cooling_range_high>+5 degF</cooling_range_high>
+				<cooling_range_low>-3 degF</cooling_range_low>
+				<cooling_ramp_high>+0</cooling_ramp_high>
+				<cooling_ramp_low>+0</cooling_ramp_low>
+				<heating_base_setpoint>-1 degF</heating_base_setpoint>
+				<cooling_base_setpoint>-1 degF</cooling_base_setpoint>
+				<deadband>""</deadband>
+				<heating_setpoint>""</heating_setpoint>
+				<heating_demand>""</heating_demand>
+				<cooling_setpoint>""</cooling_setpoint>
+				<cooling_demand>""</cooling_demand>
+				<sliding_time_delay>-1 s</sliding_time_delay>
+				<use_predictive_bidding>FALSE</use_predictive_bidding>
+				<device_actively_engaged>+0</device_actively_engaged>
+				<cleared_market>0</cleared_market>
+				<locked>0</locked>
+				<p_ON>+0</p_ON>
+				<p_OFF>+0</p_OFF>
+				<p_ONLOCK>+0</p_ONLOCK>
+				<p_OFFLOCK>+0</p_OFFLOCK>
+				<delta_u>+0</delta_u>
+				<regulation_market_on>""</regulation_market_on>
+				<regulation_market_off>Market</regulation_market_off>
+				<fast_regulation_signal>+0 s</fast_regulation_signal>
+				<market_price_on>+0</market_price_on>
+				<market_price_off>+10</market_price_off>
+				<period_on>+0 s</period_on>
+				<period_off>+300 s</period_off>
+				<regulation_period>0</regulation_period>
+				<r1>+0</r1>
+				<mu0>+0</mu0>
+				<mu1>+0</mu1>
+				<average_target>current_price_mean_2h</average_target>
+				<standard_deviation_target>current_price_stdev_2h</standard_deviation_target>
+				<bid_id>2</bid_id>
+				<bid_delay>0</bid_delay>
+				<proxy_average>+0</proxy_average>
+				<proxy_standard_deviation>+0</proxy_standard_deviation>
+				<proxy_market_id>0</proxy_market_id>
+				<proxy_market2_id>0</proxy_market2_id>
+				<proxy_clear_price>+0 $</proxy_clear_price>
+				<proxy_price_cap>+0</proxy_price_cap>
+				<proxy_market_unit>""</proxy_market_unit>
+				<proxy_initial_price>+0</proxy_initial_price>
+			</controller>
+		</controller_list>
+		<stubauction_list>
+		</stubauction_list>
+		<passive_controller_list>
+		</passive_controller_list>
+		<double_controller_list>
+		</double_controller_list>
+		<stub_bidder_list>
+		</stub_bidder_list>
+		<generator_controller_list>
+		</generator_controller_list>
+	</market>
+	<residential>
+		<version.major>4</version.major>
+		<version.minor>0</version.minor>
+		<residential_enduse_list>
+		</residential_enduse_list>
+		<appliance_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</appliance_list>
+		<house_list>
+			<inherits_from>residential_enduse</inherits_from>
+			<house>
+				<id>1</id>
+				<rank>1</rank>
+				<out_svc>NEVER</out_svc>
+				<clock>2001-01-01 00:00:00 PST</clock>
+				<name>house1</name>
+				<floor_area>+2500 sf</floor_area>
+				<gross_wall_area>+1632.99 sf</gross_wall_area>
+				<ceiling_height>+8 ft</ceiling_height>
+				<aspect_ratio>+1.5</aspect_ratio>
+				<envelope_UA>+342.121 Btu/degF*h</envelope_UA>
+				<window_wall_ratio>+0.07</window_wall_ratio>
+				<number_of_doors>+4</number_of_doors>
+				<exterior_wall_fraction>+1</exterior_wall_fraction>
+				<interior_exterior_wall_ratio>+1.5</interior_exterior_wall_ratio>
+				<exterior_ceiling_fraction>+1</exterior_ceiling_fraction>
+				<exterior_floor_fraction>+1</exterior_floor_fraction>
+				<window_shading>+0.67</window_shading>
+				<window_exterior_transmission_coefficient>+0.6</window_exterior_transmission_coefficient>
+				<solar_heatgain_factor>+45.9524</solar_heatgain_factor>
+				<airchange_per_hour>+0.5 unit/h</airchange_per_hour>
+				<airchange_UA>+176.547 Btu/degF*h</airchange_UA>
+				<UA>+518.668 Btu/degF*h</UA>
+				<internal_gain>+0 Btu/h</internal_gain>
+				<solar_gain>+0 Btu/h</solar_gain>
+				<incident_solar_radiation>+0 Btu/h*sf</incident_solar_radiation>
+				<heat_cool_gain>+0 Btu/h</heat_cool_gain>
+				<include_solar_quadrant>W|S|E|N</include_solar_quadrant>
+				<horizontal_diffuse_solar_radiation>+0 Btu/h*sf</horizontal_diffuse_solar_radiation>
+				<north_incident_solar_radiation>+0 Btu/h*sf</north_incident_solar_radiation>
+				<northwest_incident_solar_radiation>+0 Btu/h*sf</northwest_incident_solar_radiation>
+				<west_incident_solar_radiation>+0 Btu/h*sf</west_incident_solar_radiation>
+				<southwest_incident_solar_radiation>+0 Btu/h*sf</southwest_incident_solar_radiation>
+				<south_incident_solar_radiation>+0 Btu/h*sf</south_incident_solar_radiation>
+				<southeast_incident_solar_radiation>+0 Btu/h*sf</southeast_incident_solar_radiation>
+				<east_incident_solar_radiation>+0 Btu/h*sf</east_incident_solar_radiation>
+				<northeast_incident_solar_radiation>+0 Btu/h*sf</northeast_incident_solar_radiation>
+				<heating_cop_curve>DEFAULT</heating_cop_curve>
+				<heating_cap_curve>DEFAULT</heating_cap_curve>
+				<cooling_cop_curve>DEFAULT</cooling_cop_curve>
+				<cooling_cap_curve>DEFAULT</cooling_cap_curve>
+				<use_latent_heat>TRUE</use_latent_heat>
+				<include_fan_heatgain>TRUE</include_fan_heatgain>
+				<thermostat_deadband>+2 degF</thermostat_deadband>
+				<dlc_offset>+0 degF</dlc_offset>
+				<thermostat_cycle_time>120</thermostat_cycle_time>
+				<thermostat_off_cycle_time>-1</thermostat_off_cycle_time>
+				<thermostat_on_cycle_time>-1</thermostat_on_cycle_time>
+				<thermostat_last_cycle_time>INIT</thermostat_last_cycle_time>
+				<heating_setpoint>+60 degF</heating_setpoint>
+				<cooling_setpoint>+70 degF</cooling_setpoint>
+				<design_heating_setpoint>+70 degF</design_heating_setpoint>
+				<design_cooling_setpoint>+75 degF</design_cooling_setpoint>
+				<over_sizing_factor>+0</over_sizing_factor>
+				<simulate_window_openings>FALSE</simulate_window_openings>
+				<is_window_open>+0</is_window_open>
+				<window_low_temperature_cutoff>+60 degF</window_low_temperature_cutoff>
+				<window_high_temperature_cutoff>+80 degF</window_high_temperature_cutoff>
+				<window_quadratic_coefficient>+0</window_quadratic_coefficient>
+				<window_linear_coefficient>+0</window_linear_coefficient>
+				<window_constant_coefficient>+1</window_constant_coefficient>
+				<window_temperature_delta>+5</window_temperature_delta>
+				<design_heating_capacity>+36000 Btu/h</design_heating_capacity>
+				<design_cooling_capacity>+36000 Btu/h</design_cooling_capacity>
+				<cooling_design_temperature>+95 degF</cooling_design_temperature>
+				<heating_design_temperature>+0 degF</heating_design_temperature>
+				<design_peak_solar>+195 Btu/h*sf</design_peak_solar>
+				<design_internal_gains>+5306.89 W/sf</design_internal_gains>
+				<air_heat_fraction>+0 pu</air_heat_fraction>
+				<mass_solar_gain_fraction>+0.5 pu</mass_solar_gain_fraction>
+				<mass_internal_gain_fraction>+0.5 pu</mass_internal_gain_fraction>
+				<auxiliary_heat_capacity>+40000 Btu/h</auxiliary_heat_capacity>
+				<aux_heat_deadband>+2 degF</aux_heat_deadband>
+				<aux_heat_temperature_lockout>+10 degF</aux_heat_temperature_lockout>
+				<aux_heat_time_delay>+300 s</aux_heat_time_delay>
+				<cooling_supply_air_temp>+50 degF</cooling_supply_air_temp>
+				<heating_supply_air_temp>+150 degF</heating_supply_air_temp>
+				<duct_pressure_drop>+0.5 inH2O</duct_pressure_drop>
+				<fan_design_power>+211.847 W</fan_design_power>
+				<fan_low_power_fraction>+0 pu</fan_low_power_fraction>
+				<fan_power>+0 kW</fan_power>
+				<fan_design_airflow>+1045.7 cfm</fan_design_airflow>
+				<fan_impedance_fraction>+0.2534 pu</fan_impedance_fraction>
+				<fan_power_fraction>+0.0135 pu</fan_power_fraction>
+				<fan_current_fraction>+0.7332 pu</fan_current_fraction>
+				<fan_power_factor>+0.96 pu</fan_power_factor>
+				<heating_demand>+13.8488 kW</heating_demand>
+				<cooling_demand>+3.02409 kW</cooling_demand>
+				<heating_COP>+1 pu</heating_COP>
+				<cooling_COP>+3 Btu/kWh</cooling_COP>
+				<air_temperature>+69 degF</air_temperature>
+				<outdoor_temperature>+74 degF</outdoor_temperature>
+				<outdoor_rh>+0 %</outdoor_rh>
+				<mass_heat_capacity>+4293.81 Btu/degF</mass_heat_capacity>
+				<mass_heat_coeff>+9329.65 Btu/degF*h</mass_heat_coeff>
+				<mass_temperature>+69 degF</mass_temperature>
+				<air_volume>+20000 cf</air_volume>
+				<air_mass>+1470 lb</air_mass>
+				<air_heat_capacity>+1059.28 Btu/degF</air_heat_capacity>
+				<latent_load_fraction>+0.3 pu</latent_load_fraction>
+				<total_thermal_mass_per_floor_area>+2 Btu/degF*sf</total_thermal_mass_per_floor_area>
+				<interior_surface_heat_transfer_coeff>+1.46 Btu/h*degF*sf</interior_surface_heat_transfer_coeff>
+				<number_of_stories>+1</number_of_stories>
+				<is_AUX_on>+0</is_AUX_on>
+				<is_HEAT_on>+0</is_HEAT_on>
+				<is_COOL_on>+0</is_COOL_on>
+				<thermal_storage_present>+0</thermal_storage_present>
+				<thermal_storage_in_use>+0</thermal_storage_in_use>
+				<system_type>NONE</system_type>
+				<auxiliary_strategy>DEADBAND</auxiliary_strategy>
+				<system_mode>OFF</system_mode>
+				<last_system_mode>OFF</last_system_mode>
+				<heating_system_type>HEAT_PUMP</heating_system_type>
+				<cooling_system_type>HEAT_PUMP</cooling_system_type>
+				<auxiliary_system_type>ELECTRIC</auxiliary_system_type>
+				<fan_type>ONE_SPEED</fan_type>
+				<thermal_integrity_level>UNKNOWN</thermal_integrity_level>
+				<glass_type>LOW_E_GLASS</glass_type>
+				<window_frame>THERMAL_BREAK</window_frame>
+				<glazing_treatment>CLEAR</glazing_treatment>
+				<glazing_layers>TWO</glazing_layers>
+				<motor_model>NONE</motor_model>
+				<motor_efficiency>AVERAGE</motor_efficiency>
+				<last_mode_timer>21600</last_mode_timer>
+				<hvac_motor_efficiency>+1 unit</hvac_motor_efficiency>
+				<hvac_motor_loss_power_factor>+0.125 unit</hvac_motor_loss_power_factor>
+				<Rroof>+30 degF*sf*h/Btu</Rroof>
+				<Rwall>+19 degF*sf*h/Btu</Rwall>
+				<Rfloor>+22 degF*sf*h/Btu</Rfloor>
+				<Rwindows>+2.12766 degF*sf*h/Btu</Rwindows>
+				<Rdoors>+5 degF*sf*h/Btu</Rdoors>
+				<hvac_breaker_rating>+200 A</hvac_breaker_rating>
+				<hvac_power_factor>+0 unit</hvac_power_factor>
+				<hvac_load>+0 kW</hvac_load>
+				<last_heating_load>+0 kW</last_heating_load>
+				<last_cooling_load>+0 kW</last_cooling_load>
+				<hvac_power>+0+0j kVA</hvac_power>
+				<total_load>+0 kW</total_load>
+				<panel>power_factor: 0.000000; power.r: 0.000000</panel>
+				<panel.energy>+0+0i kVAh</panel.energy>
+				<panel.power>+0+0i kVA</panel.power>
+				<panel.peak_demand>+0+0i kVA</panel.peak_demand>
+				<panel.heatgain>+0 Btu/h</panel.heatgain>
+				<panel.cumulative_heatgain>+0 Btu</panel.cumulative_heatgain>
+				<panel.heatgain_fraction>+0 pu</panel.heatgain_fraction>
+				<panel.current_fraction>+0 pu</panel.current_fraction>
+				<panel.impedance_fraction>+0 pu</panel.impedance_fraction>
+				<panel.power_fraction>+0 pu</panel.power_fraction>
+				<panel.power_factor>+0</panel.power_factor>
+				<panel.constant_power>+0+0i kVA</panel.constant_power>
+				<panel.constant_current>+0+0i kVA</panel.constant_current>
+				<panel.constant_admittance>+0+0i kVA</panel.constant_admittance>
+				<panel.voltage_factor>+0 pu</panel.voltage_factor>
+				<panel.breaker_amps>+0 A</panel.breaker_amps>
+				<panel.configuration>IS110</panel.configuration>
+				<design_internal_gain_density>+0.6 W/sf</design_internal_gain_density>
+				<compressor_on>FALSE</compressor_on>
+				<compressor_count>0</compressor_count>
+				<hvac_last_on>INIT</hvac_last_on>
+				<hvac_last_off>INIT</hvac_last_off>
+				<hvac_period_length>+0 s</hvac_period_length>
+				<hvac_duty_cycle>+0</hvac_duty_cycle>
+				<a>+487.516</a>
+				<b>+5591.8</b>
+				<c>+518.668</c>
+				<d>+38381.4</d>
+				<c1>-9.29717</c1>
+				<c2>+8.80753</c2>
+				<A3>+1.04498</A3>
+				<A4>-0.236082</A4>
+				<k1>-4.82446</k1>
+				<k2>-0.175541</k2>
+				<r1>-0.0935175</r1>
+				<r2>-11.3765</r2>
+				<Teq>+74</Teq>
+				<Tevent>+0</Tevent>
+				<Qi>+0</Qi>
+				<Qa>+0</Qa>
+				<Qm>+0</Qm>
+				<Qh>+0</Qh>
+				<Qlatent>+0</Qlatent>
+				<dTair>+2.4482</dTair>
+				<adj_cooling_cap>+39893.4</adj_cooling_cap>
+				<adj_heating_cap>+57377.5</adj_heating_cap>
+				<adj_cooling_cop>+3.86632</adj_cooling_cop>
+				<adj_heating_cop>+1.21428</adj_heating_cop>
+				<thermostat_control>FULL</thermostat_control>
+				<shape>type: unknown</shape>
+				<load>impedance_fraction: 0.200000; power_fraction: 0.800000; power_factor: 0.970000; power.r: 0.000000</load>
+				<energy>+0+0i kVAh</energy>
+				<power>+0+0j kVA</power>
+				<peak_demand>+0+0i kVA</peak_demand>
+				<heatgain>+0 Btu/h</heatgain>
+				<cumulative_heatgain>+0 Btu</cumulative_heatgain>
+				<heatgain_fraction>+0 pu</heatgain_fraction>
+				<current_fraction>+0 pu</current_fraction>
+				<impedance_fraction>+0.2 pu</impedance_fraction>
+				<power_fraction>+0.8 pu</power_fraction>
+				<power_factor>+0.97</power_factor>
+				<constant_power>+0+0j kVA</constant_power>
+				<constant_current>+0+0j kVA</constant_current>
+				<constant_admittance>+0+0j kVA</constant_admittance>
+				<voltage_factor>+1 pu</voltage_factor>
+				<breaker_amps>+200 A</breaker_amps>
+				<configuration>IS220</configuration>
+				<override>NORMAL</override>
+				<power_state>OFF</power_state>
+			</house>
+		</house_list>
+		<waterheater_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</waterheater_list>
+		<lights_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</lights_list>
+		<refrigerator_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</refrigerator_list>
+		<clotheswasher_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</clotheswasher_list>
+		<dishwasher_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</dishwasher_list>
+		<occupantload_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</occupantload_list>
+		<plugload_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</plugload_list>
+		<microwave_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</microwave_list>
+		<range_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</range_list>
+		<freezer_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</freezer_list>
+		<dryer_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</dryer_list>
+		<evcharger_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</evcharger_list>
+		<ZIPload_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</ZIPload_list>
+		<thermal_storage_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</thermal_storage_list>
+		<evcharger_det_list>
+			<inherits_from>residential_enduse</inherits_from>
+		</evcharger_det_list>
+	</residential>
+</gridlabd>

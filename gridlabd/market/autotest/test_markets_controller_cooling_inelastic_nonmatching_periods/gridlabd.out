@@ -1,0 +1,61 @@
+   ...Market_1 first clearing at 2001-06-25 14:15:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.37 kW at $100.00/kW at 2001-06-25 14:00:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.37 kW at $100.00/kW at 2001-06-25 14:05:00 PDT
+   ...Market_1 clearing process started at 2001-06-25 14:15:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.370 kW at 100.00 $/kW
+   ...  Market_1 clears 4.37 kW at $10.00/kW at 2001-06-25 14:15:00 PDT
+   ...Market_1 opens for clearing of market_id 2 at 2001-06-25 14:30:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.37 kW at $55.00/kW at 2001-06-25 14:15:00 PDT
+   ...Market_1 clearing process started at 2001-06-25 14:30:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.370 kW at 55.00 $/kW
+   ...  Market_1 clears 4.37 kW at $25.00/kW at 2001-06-25 14:30:00 PDT
+   ...Market_1 opens for clearing of market_id 3 at 2001-06-25 14:45:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.37 kW at $19.22/kW at 2001-06-25 14:30:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.37 kW at $21.56/kW at 2001-06-25 14:35:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 14:45:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.370 kW at 24.06 $/kW
+   ...  Market_1 clears 0.00 kW at $112.00/kW at 2001-06-25 14:45:00 PDT
+   ...Market_1 opens for clearing of market_id 4 at 2001-06-25 15:00:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.37 kW at $115.50/kW at 2001-06-25 14:45:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.37 kW at $122.26/kW at 2001-06-25 14:50:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 15:00:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.370 kW at 128.13 $/kW
+   ...  Market_1 clears 4.37 kW at $49.50/kW at 2001-06-25 15:00:00 PDT
+   ...Market_1 opens for clearing of market_id 5 at 2001-06-25 15:15:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.37 kW at $99.78/kW at 2001-06-25 15:00:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.39 kW at $82.66/kW at 2001-06-25 15:05:00 PDT
+   ...Market_1 clearing process started at 2001-06-25 15:15:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.390 kW at 82.66 $/kW
+   ...  Market_1 clears 4.39 kW at $49.80/kW at 2001-06-25 15:15:00 PDT
+   ...Market_1 opens for clearing of market_id 6 at 2001-06-25 15:30:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.39 kW at $49.75/kW at 2001-06-25 15:20:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.39 kW at $49.80/kW at 2001-06-25 15:25:00 PDT
+   ...Market_1 clearing process started at 2001-06-25 15:30:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.390 kW at 49.80 $/kW
+   ...  Market_1 clears 0.00 kW at $50.20/kW at 2001-06-25 15:30:00 PDT
+   ...Market_1 opens for clearing of market_id 7 at 2001-06-25 15:45:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.39 kW at $50.24/kW at 2001-06-25 15:30:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.39 kW at $50.26/kW at 2001-06-25 15:35:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 15:45:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.390 kW at 50.19 $/kW
+   ...  Market_1 clears 0.00 kW at $77.00/kW at 2001-06-25 15:45:00 PDT
+   ...Market_1 opens for clearing of market_id 8 at 2001-06-25 16:00:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.39 kW at $76.51/kW at 2001-06-25 15:45:00 PDT
+   ...  Market_1 resubmits ask from object cool_control for 4.39 kW at $81.16/kW at 2001-06-25 15:50:00 PDT
+last message was repeated 1 times
+   ...Market_1 clearing process started at 2001-06-25 16:00:00 PDT
+   ...  demand curve
+   ...     0: pÂô asks 4.390 kW at 74.05 $/kW
+   ...  Market_1 clears 0.00 kW at $82.00/kW at 2001-06-25 16:00:00 PDT
+   ...Market_1 opens for clearing of market_id 9 at 2001-06-25 16:15:00 PDT
+   ...  Market_1 receives ask from object cool_control for 4.39 kW at $82.18/kW at 2001-06-25 16:00:00 PDT

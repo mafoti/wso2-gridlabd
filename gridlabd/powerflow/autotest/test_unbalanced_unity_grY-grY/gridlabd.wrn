@@ -1,0 +1,5 @@
+WARNING  [2000-01-01 00:00:00 EST] : Line:ohl_12 is at 104.09% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:xform_23 is at 264.67% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : Line:ohl_34 is at 104.09% of its continuous rating on phase C!
+WARNING  [2000-01-01 00:00:00 EST] : transformer:xform_23 is at 107.49% of its rated power value
+WARNING  [2000-01-01 00:00:00 EST] : last warning message was repeated 7 times

@@ -1,0 +1,6 @@
+WARNING  [INIT] : Inverter status is unknown! Using default: ONLINE
+WARNING  [INIT] : inverter:fourquadinv - charge_lockout_time is zero, oscillations may occur
+WARNING  [INIT] : inverter:fourquadinv - discharge_lockout_time is zero, oscillations may occur
+WARNING  [INIT] : v_max was not given -- using default value (battery: 13)
+WARNING  [INIT] : e_max was not given -- using default value (battery: 13)
+WARNING  [INIT] : eta_rt was not given -- using default value (battery: 13)

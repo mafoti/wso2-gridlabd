@@ -1,0 +1,206 @@
+WARNING  [INIT] : object name '632-645' does not follow strict naming rules and may not link correctly during load time
+WARNING  [INIT] : last warning message was repeated 28 times
+WARNING  [INIT] : switch objects may not behave properly under FBS!
+WARNING  [INIT] : Automatic controls can oscillate to the iteration limit with no time delays.  To prevent this, ensure your switching limits are reasonable.
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_13 is at 100.74% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.77% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:588 is outside of ANSI standards (voltage = 107 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 779 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_13 is at 104.05% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 177.55% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:588 is outside of ANSI standards (voltage = 106 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 759 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_13 is at 100.80% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 177.41% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 11 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_5 is at 104.75% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 176.25% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_5 is at 103.72% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 176.02% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_5 is at 102.73% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 175.79% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_5 is at 101.75% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 175.57% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_5 is at 100.79% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 175.35% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 107.18% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 175.14% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 106.13% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.93% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 105.09% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.73% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 104.08% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.53% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 103.08% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.34% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 102.10% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 174.15% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 101.13% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.96% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 10 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : transformer:center_tap_14 is at 100.18% of its rated power value
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.60% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.43% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.26% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 173.10% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.94% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.78% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.62% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase B at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.47% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase B at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.33% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 1 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.18% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times
+WARNING  [2000-01-01 03:00:00 EST] : Regulator (null) has phase A at the minimum tap value
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 03:00:00 EST] : (null) - house:342 is outside of ANSI standards (voltage = 9 percent of nominal 120/240)
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 179 times
+WARNING  [2000-01-01 03:00:00 EST] : Line:trip_line10 is at 172.04% of its emergency rating on phase 1!
+WARNING  [2000-01-01 03:00:00 EST] : last warning message was repeated 14 times

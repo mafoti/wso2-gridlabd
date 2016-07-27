@@ -1,0 +1,12 @@
+WARNING  [2000-01-01 03:00:00 EST] : Regulator Regulator has phase A at the maximum tap value
+WARNING  [2000-01-01 03:00:00 EST] : Regulator Regulator has phase B at the minimum tap value
+WARNING  [2000-01-01 04:00:00 EST] : Regulator Regulator has phase A at the maximum tap value
+WARNING  [2000-01-01 04:00:00 EST] : Regulator Regulator has phase B at the minimum tap value
+WARNING  [2000-01-01 04:00:01 EST] : Regulator Regulator has phase A at the maximum tap value
+WARNING  [2000-01-01 04:00:01 EST] : Regulator Regulator has phase B at the minimum tap value
+WARNING  [2000-01-01 05:00:00 EST] : Regulator Regulator has phase A at the maximum tap value
+WARNING  [2000-01-01 05:00:00 EST] : Regulator Regulator has phase B at the minimum tap value
+WARNING  [2000-01-01 19:00:01 EST] : Regulator Regulator has phase C at the maximum tap value
+WARNING  [2000-01-01 20:00:01 EST] : last warning message was repeated 2 times
+WARNING  [2000-01-01 20:00:01 EST] : Regulator Regulator has phase C at the minimum tap value
+WARNING  [2000-01-02 12:00:00 EST] : last warning message was repeated 2 times

@@ -1,0 +1,45 @@
+DEBUG [INIT] : test_latlon.glm(12): latitude is converted to 51.123456
+DEBUG [INIT] : test_latlon.glm(13): longitude is convert to 14.123456
+DEBUG [INIT] : test_latlon.glm(16): latitude is converted to -51.123456
+DEBUG [INIT] : test_latlon.glm(17): longitude is convert to 14.123456
+DEBUG [INIT] : test_latlon.glm(20): latitude is converted to 51.123456
+DEBUG [INIT] : test_latlon.glm(21): longitude is convert to -14.123456
+DEBUG [INIT] : test_latlon.glm(24): latitude is converted to -51.123456
+DEBUG [INIT] : test_latlon.glm(25): longitude is convert to -14.123456
+DEBUG [INIT] : test_latlon.glm(28): latitude is converted to 51.205760
+DEBUG [INIT] : test_latlon.glm(29): longitude is convert to 14.205760
+DEBUG [INIT] : test_latlon.glm(32): latitude is converted to -51.205760
+DEBUG [INIT] : test_latlon.glm(33): longitude is convert to 14.205760
+DEBUG [INIT] : test_latlon.glm(36): latitude is converted to 51.205760
+DEBUG [INIT] : test_latlon.glm(37): longitude is convert to -14.205760
+DEBUG [INIT] : test_latlon.glm(40): latitude is converted to -51.205760
+DEBUG [INIT] : test_latlon.glm(41): longitude is convert to -14.205760
+DEBUG [INIT] : test_latlon.glm(44): latitude is converted to 51.209600
+DEBUG [INIT] : test_latlon.glm(45): longitude is convert to 14.209600
+DEBUG [INIT] : test_latlon.glm(48): latitude is converted to -51.209600
+DEBUG [INIT] : test_latlon.glm(49): longitude is convert to 14.209444
+DEBUG [INIT] : test_latlon.glm(52): latitude is converted to 51.209600
+DEBUG [INIT] : test_latlon.glm(53): longitude is convert to -14.209600
+DEBUG [INIT] : test_latlon.glm(56): latitude is converted to -51.209600
+DEBUG [INIT] : test_latlon.glm(57): longitude is convert to -14.209600
+DEBUG [INIT] : exec_mls_create()
+DEBUG [INIT] : object test:0 init -> ok
+DEBUG [INIT] : object test:1 init -> ok
+DEBUG [INIT] : object test:2 init -> ok
+DEBUG [INIT] : object test:3 init -> ok
+DEBUG [INIT] : object test:4 init -> ok
+DEBUG [INIT] : object test:5 init -> ok
+DEBUG [INIT] : object test:6 init -> ok
+DEBUG [INIT] : object test:7 init -> ok
+DEBUG [INIT] : object test:8 init -> ok
+DEBUG [INIT] : object test:9 init -> ok
+DEBUG [INIT] : object test:10 init -> ok
+DEBUG [INIT] : object test:11 init -> ok
+DEBUG [INIT] : link_initall(): link startup in progress...
+DEBUG [INIT] : link_initall(): link startup done ok
+DEBUG [INIT] : nObjRankList=0 
+DEBUG [INIT] : *** main loop event at 946713600; stoptime=978336000, n_events=2, exitcode=0 ***
+DEBUG [INIT] : delta_dt is -2
+DEBUG [INIT] : global_clock -> 2000-01-01 00:00:00 PST
+
+DEBUG [2000-01-01 00:00:00 PST] : *** main loop ended at 978336001; stoptime=978336000, n_events=2, exitcode=0 ***

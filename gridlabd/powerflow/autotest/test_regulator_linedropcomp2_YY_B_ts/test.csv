@@ -1,0 +1,10 @@
+# file...... test.csv
+# date...... Thu Jul 07 15:45:24 2016
+# user...... gridlabd
+# host...... (null)
+# target.... regulator 8
+# trigger... (none)
+# interval.. 3600
+# limit..... 24
+# timestamp,tap_A,tap_B,tap_C
+2000-01-01 00:00:00 EST,8,4,6

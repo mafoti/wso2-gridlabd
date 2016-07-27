@@ -1,0 +1,17 @@
+# file...... test_markets_controller_heating_deadband_matching_period_calculate_bid_price.csv
+# date...... Thu Jul 07 15:44:57 2016
+# user...... gridlabd
+# host...... (null)
+# target.... auction 0
+# trigger... (none)
+# interval.. 900
+# limit..... 4320
+# timestamp,current_price_mean_30min,house1:air_temperature,hvac_control:heating_base_setpoint,hvac_control:heating_ramp_low,hvac_control:heating_ramp_high,current_price_stdev_30min,hvac_control:heating_range_low,hvac_control:heating_range_high,hvac_control:cooling_base_setpoint,hvac_control:cooling_range_low,house1:thermostat_deadband,hvac_control:bid_price
+2001-06-25 14:00:00 PDT,+100,+65,+65,-2,-2,+10,-5,+4,+70,-4,+2,+100
+2001-06-25 14:15:00 PDT,+55,+65.4759,+65,-2,-2,+10,-5,+4,+70,-4,+2,+52.6207
+2001-06-25 14:30:00 PDT,+17.5,+65.9869,+65,-2,-2,+7.5,-5,+4,+70,-4,+2,+13.7993
+2001-06-25 14:45:00 PDT,+68.5,+62.9747,+65,-2,-2,+43.5,-5,+4,+70,-4,+2,+103.741
+2001-06-25 15:00:00 PDT,+80.75,+61.8903,+65,-2,-2,+31.25,-5,+4,+70,-4,+2,+119.621
+2001-06-25 15:15:00 PDT,+49.65,+66.4268,+65,-2,-2,+0.15,-5,+4,+70,-4,+2,+49.543
+2001-06-25 15:30:00 PDT,+50,+62.3529,+65,-2,-2,+0.2,-5,+4,+70,-4,+2,+50.2118
+2001-06-25 15:45:00 PDT,+63.6,+62.7894,+65,-2,-2,+13.4,-5,+4,+70,-4,+2,+75.4486

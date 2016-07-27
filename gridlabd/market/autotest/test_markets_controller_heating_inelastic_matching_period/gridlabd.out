@@ -1,0 +1,50 @@
+   ...Market_1 first clearing at 2001-01-06 04:01:00 PST
+   ...  Market_1 receives ask from object heat_control for 4.53 kW at $100.00/kW at 2001-01-06 04:00:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:01:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 4.526 kW at 100.00 $/kW
+   ...  Market_1 clears 4.53 kW at $10.00/kW at 2001-01-06 04:01:00 PST
+   ...Market_1 opens for clearing of market_id 2 at 2001-01-06 04:02:00 PST
+   ...  Market_1 receives ask from object heat_control for 4.53 kW at $55.00/kW at 2001-01-06 04:01:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:02:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 4.526 kW at 55.00 $/kW
+   ...  Market_1 clears 4.53 kW at $25.00/kW at 2001-01-06 04:02:00 PST
+   ...Market_1 opens for clearing of market_id 3 at 2001-01-06 04:03:00 PST
+   ...  Market_1 receives ask from object heat_control for 4.53 kW at $27.48/kW at 2001-01-06 04:02:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:03:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 4.526 kW at 27.48 $/kW
+   ...  Market_1 clears 0.00 kW at $112.00/kW at 2001-01-06 04:03:00 PST
+   ...Market_1 opens for clearing of market_id 4 at 2001-01-06 04:04:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $123.65/kW at 2001-01-06 04:03:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:04:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 11.723 kW at 123.65 $/kW
+   ...  Market_1 clears 11.72 kW at $49.50/kW at 2001-01-06 04:04:00 PST
+   ...Market_1 opens for clearing of market_id 5 at 2001-01-06 04:05:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $118.70/kW at 2001-01-06 04:04:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:05:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 11.723 kW at 118.70 $/kW
+   ...  Market_1 clears 11.72 kW at $49.80/kW at 2001-01-06 04:05:00 PST
+   ...Market_1 opens for clearing of market_id 6 at 2001-01-06 04:06:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $49.83/kW at 2001-01-06 04:05:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:06:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 11.723 kW at 49.83 $/kW
+   ...  Market_1 clears 0.00 kW at $50.20/kW at 2001-01-06 04:06:00 PST
+   ...Market_1 opens for clearing of market_id 7 at 2001-01-06 04:07:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $50.23/kW at 2001-01-06 04:06:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:07:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 11.723 kW at 50.23 $/kW
+   ...  Market_1 clears 0.00 kW at $77.00/kW at 2001-01-06 04:07:00 PST
+   ...Market_1 opens for clearing of market_id 8 at 2001-01-06 04:08:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $78.27/kW at 2001-01-06 04:07:00 PST
+   ...Market_1 clearing process started at 2001-01-06 04:08:00 PST
+   ...  demand curve
+   ...     0: °¡û asks 11.723 kW at 78.27 $/kW
+   ...  Market_1 clears 0.00 kW at $82.00/kW at 2001-01-06 04:08:00 PST
+   ...Market_1 opens for clearing of market_id 9 at 2001-01-06 04:09:00 PST
+   ...  Market_1 receives ask from object heat_control for 11.72 kW at $82.16/kW at 2001-01-06 04:08:00 PST
